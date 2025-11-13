@@ -1,0 +1,1001 @@
+order_id,order_date,product_id,customer_id,order_amt,shipping_charge,refund_amount,output,day_name,profit,profit_Status,profit_status
+10000,2025-03-02,P050,C269,3535,195,100,Return,Sunday,3630,Profit,Profit
+10001,2025-02-05,P031,C021,521,128,400,Return,Wednesday,249,Profit,Profit
+10002,2025-02-23,P030,C008,3930,26,0,Not Return,Sunday,3956,Profit,Profit
+10003,2025-03-27,P009,C267,4387,155,0,Not Return,Thursday,4542,Profit,Profit
+10004,2025-02-14,P030,C133,624,54,0,Not Return,Friday,678,Profit,Profit
+10005,2025-02-21,P019,C300,4490,186,300,Return,Friday,4376,Profit,Profit
+10006,2025-01-22,P015,C079,2253,165,0,Not Return,Wednesday,2418,Profit,Profit
+10007,2025-03-06,P001,C017,3408,199,0,Not Return,Thursday,3607,Profit,Profit
+10008,2025-03-30,P005,C032,4223,168,500,Return,Sunday,3891,Profit,Profit
+10009,2025-02-18,P025,C157,2765,185,500,Return,Tuesday,2450,Profit,Profit
+10010,2025-02-10,P021,C228,4078,155,0,Not Return,Monday,4233,Profit,Profit
+10011,2025-03-31,P036,C267,3622,144,100,Return,Monday,3666,Profit,Profit
+10012,2025-03-18,P048,C068,1143,69,200,Return,Tuesday,1012,Profit,Profit
+10013,2025-02-22,P021,C040,4072,121,300,Return,Saturday,3893,Profit,Profit
+10014,2025-02-08,P005,C297,1158,107,100,Return,Saturday,1165,Profit,Profit
+10015,2025-01-02,P010,C014,4718,60,100,Return,Thursday,4678,Profit,Profit
+10016,2025-01-23,P008,C024,2189,61,300,Return,Thursday,1950,Profit,Profit
+10017,2025-03-22,P048,C229,4941,157,0,Not Return,Saturday,5098,Profit,Profit
+10018,2025-01-22,P023,C033,787,55,0,Not Return,Wednesday,842,Profit,Profit
+10019,2025-03-21,P021,C127,1643,26,0,Not Return,Friday,1669,Profit,Profit
+10020,2025-03-07,P027,C168,2841,99,200,Return,Friday,2740,Profit,Profit
+10021,2025-01-12,P041,C275,1130,88,200,Return,Sunday,1018,Profit,Profit
+10022,2025-02-12,P007,C016,1162,104,300,Return,Wednesday,966,Profit,Profit
+10023,2025-01-03,P011,C113,985,129,0,Not Return,Friday,1114,Profit,Profit
+10024,2025-03-13,P022,C054,3412,94,300,Return,Thursday,3206,Profit,Profit
+10025,2025-01-27,P021,C077,2501,54,0,Not Return,Monday,2555,Profit,Profit
+10026,2025-03-25,P044,C112,2258,74,500,Return,Tuesday,1832,Profit,Profit
+10027,2025-02-14,P031,C080,2266,143,200,Return,Friday,2209,Profit,Profit
+10028,2025-03-14,P012,C231,4958,77,400,Return,Friday,4635,Profit,Profit
+10029,2025-02-01,P041,C125,2170,173,500,Return,Saturday,1843,Profit,Profit
+10030,2025-01-01,P039,C164,2524,182,0,Not Return,Wednesday,2706,Profit,Profit
+10031,2025-02-16,P030,C020,4098,87,400,Return,Sunday,3785,Profit,Profit
+10032,2025-01-22,P027,C104,3183,51,200,Return,Wednesday,3034,Profit,Profit
+10033,2025-01-05,P025,C023,505,198,300,Return,Sunday,403,Profit,Profit
+10034,2025-01-13,P037,C281,3732,24,200,Return,Monday,3556,Profit,Profit
+10035,2025-02-04,P010,C022,886,199,100,Return,Tuesday,985,Profit,Profit
+10036,2025-02-05,P003,C220,3977,46,0,Not Return,Wednesday,4023,Profit,Profit
+10037,2025-03-10,P025,C062,1007,61,0,Not Return,Monday,1068,Profit,Profit
+10038,2025-02-10,P038,C149,3990,169,400,Return,Monday,3759,Profit,Profit
+10039,2025-02-23,P012,C208,3489,96,500,Return,Sunday,3085,Profit,Profit
+10040,2025-01-20,P020,C034,3498,31,0,Not Return,Monday,3529,Profit,Profit
+10041,2025-03-04,P026,C228,226,199,400,Return,Tuesday,25,Profit,Profit
+10042,2025-03-26,P040,C269,3896,122,200,Return,Wednesday,3818,Profit,Profit
+10043,2025-01-25,P032,C038,2745,163,0,Not Return,Saturday,2908,Profit,Profit
+10044,2025-01-07,P029,C072,173,193,100,Return,Tuesday,266,Profit,Profit
+10045,2025-02-27,P028,C279,1129,197,0,Not Return,Thursday,1326,Profit,Profit
+10046,2025-01-10,P049,C251,3041,24,100,Return,Friday,2965,Profit,Profit
+10047,2025-02-02,P021,C253,1694,23,0,Not Return,Sunday,1717,Profit,Profit
+10048,2025-03-19,P024,C036,1452,34,200,Return,Wednesday,1286,Profit,Profit
+10049,2025-03-12,P029,C108,2932,19,100,Return,Wednesday,2851,Profit,Profit
+10050,2025-02-09,P009,C159,4143,151,0,Not Return,Sunday,4294,Profit,Profit
+10051,2025-01-01,P001,C018,1936,178,0,Not Return,Wednesday,2114,Profit,Profit
+10052,2025-02-02,P032,C143,2342,30,0,Not Return,Sunday,2372,Profit,Profit
+10053,2025-02-04,P019,C148,1689,148,300,Return,Tuesday,1537,Profit,Profit
+10054,2025-01-17,P023,C172,4709,43,0,Not Return,Friday,4752,Profit,Profit
+10055,2025-04-01,P028,C239,2446,37,0,Not Return,Tuesday,2483,Profit,Profit
+10056,2025-01-31,P044,C285,1203,170,0,Not Return,Friday,1373,Profit,Profit
+10057,2025-01-05,P015,C055,4343,89,300,Return,Sunday,4132,Profit,Profit
+10058,2025-01-17,P046,C236,1890,99,500,Return,Friday,1489,Profit,Profit
+10059,2025-01-12,P045,C120,1119,189,0,Not Return,Sunday,1308,Profit,Profit
+10060,2025-03-26,P039,C200,1349,164,0,Not Return,Wednesday,1513,Profit,Profit
+10061,2025-01-07,P045,C227,3643,99,0,Not Return,Tuesday,3742,Profit,Profit
+10062,2025-02-21,P019,C230,2487,108,0,Not Return,Friday,2595,Profit,Profit
+10063,2025-01-25,P004,C199,954,192,500,Return,Saturday,646,Profit,Profit
+10064,2025-02-11,P007,C104,598,99,0,Not Return,Tuesday,697,Profit,Profit
+10065,2025-03-27,P050,C071,628,95,0,Not Return,Thursday,723,Profit,Profit
+10066,2025-02-10,P010,C200,1518,120,0,Not Return,Monday,1638,Profit,Profit
+10067,2025-02-06,P029,C156,409,11,0,Not Return,Thursday,420,Profit,Profit
+10068,2025-02-01,P015,C265,4472,189,100,Return,Saturday,4561,Profit,Profit
+10069,2025-02-23,P042,C247,4442,125,0,Not Return,Sunday,4567,Profit,Profit
+10070,2025-04-01,P041,C254,543,30,100,Return,Tuesday,473,Profit,Profit
+10071,2025-02-09,P010,C119,2271,67,200,Return,Sunday,2138,Profit,Profit
+10072,2025-03-05,P042,C191,1600,155,0,Not Return,Wednesday,1755,Profit,Profit
+10073,2025-02-07,P032,C246,642,45,0,Not Return,Friday,687,Profit,Profit
+10074,2025-02-09,P029,C237,1570,116,0,Not Return,Sunday,1686,Profit,Profit
+10075,2025-03-16,P048,C001,388,124,0,Not Return,Sunday,512,Profit,Profit
+10076,2025-02-21,P007,C088,4923,37,0,Not Return,Friday,4960,Profit,Profit
+10077,2025-03-28,P008,C227,4449,19,0,Not Return,Friday,4468,Profit,Profit
+10078,2025-01-31,P049,C038,2606,74,300,Return,Friday,2380,Profit,Profit
+10079,2025-03-09,P024,C273,3109,118,0,Not Return,Sunday,3227,Profit,Profit
+10080,2025-03-17,P034,C136,1133,195,300,Return,Monday,1028,Profit,Profit
+10081,2025-02-18,P044,C255,666,96,500,Return,Tuesday,262,Profit,Profit
+10082,2025-01-08,P018,C222,294,158,400,Return,Wednesday,52,Profit,Profit
+10083,2025-01-05,P027,C288,4692,71,0,Not Return,Sunday,4763,Profit,Profit
+10084,2025-01-23,P012,C182,3288,76,0,Not Return,Thursday,3364,Profit,Profit
+10085,2025-02-11,P029,C175,2261,24,200,Return,Tuesday,2085,Profit,Profit
+10086,2025-02-08,P026,C137,2104,110,0,Not Return,Saturday,2214,Profit,Profit
+10087,2025-01-18,P029,C201,537,119,0,Not Return,Saturday,656,Profit,Profit
+10088,2025-03-06,P033,C233,3393,34,300,Return,Thursday,3127,Profit,Profit
+10089,2025-03-10,P033,C150,2037,195,400,Return,Monday,1832,Profit,Profit
+10090,2025-02-02,P027,C250,4795,50,0,Not Return,Sunday,4845,Profit,Profit
+10091,2025-03-30,P017,C034,4308,51,0,Not Return,Sunday,4359,Profit,Profit
+10092,2025-01-01,P039,C266,1999,112,200,Return,Wednesday,1911,Profit,Profit
+10093,2025-02-21,P001,C091,2213,16,300,Return,Friday,1929,Profit,Profit
+10094,2025-03-03,P009,C175,4581,183,200,Return,Monday,4564,Profit,Profit
+10095,2025-03-30,P007,C059,408,88,0,Not Return,Sunday,496,Profit,Profit
+10096,2025-02-27,P010,C125,2222,153,500,Return,Thursday,1875,Profit,Profit
+10097,2025-02-12,P030,C067,1015,81,200,Return,Wednesday,896,Profit,Profit
+10098,2025-01-01,P010,C161,2146,139,0,Not Return,Wednesday,2285,Profit,Profit
+10099,2025-02-18,P020,C110,504,77,400,Return,Tuesday,181,Profit,Profit
+10100,2025-02-11,P030,C265,485,182,400,Return,Tuesday,267,Profit,Profit
+10101,2025-02-27,P002,C208,565,163,0,Not Return,Thursday,728,Profit,Profit
+10102,2025-01-18,P044,C275,1488,80,0,Not Return,Saturday,1568,Profit,Profit
+10103,2025-01-24,P011,C191,1982,14,400,Return,Friday,1596,Profit,Profit
+10104,2025-02-18,P040,C256,827,42,400,Return,Tuesday,469,Profit,Profit
+10105,2025-02-13,P047,C201,779,28,0,Not Return,Thursday,807,Profit,Profit
+10106,2025-02-09,P031,C207,3168,79,200,Return,Sunday,3047,Profit,Profit
+10107,2025-01-26,P049,C034,2097,116,0,Not Return,Sunday,2213,Profit,Profit
+10108,2025-01-27,P026,C063,4040,68,500,Return,Monday,3608,Profit,Profit
+10109,2025-01-10,P045,C031,432,167,0,Not Return,Friday,599,Profit,Profit
+10110,2025-01-13,P031,C279,848,43,0,Not Return,Monday,891,Profit,Profit
+10111,2025-02-27,P007,C153,4075,153,0,Not Return,Thursday,4228,Profit,Profit
+10112,2025-01-07,P045,C086,3538,163,100,Return,Tuesday,3601,Profit,Profit
+10113,2025-02-18,P038,C152,3585,158,0,Not Return,Tuesday,3743,Profit,Profit
+10114,2025-01-08,P010,C225,2983,84,300,Return,Wednesday,2767,Profit,Profit
+10115,2025-02-04,P014,C060,1094,24,500,Return,Tuesday,618,Profit,Profit
+10116,2025-02-11,P024,C113,4418,60,500,Return,Tuesday,3978,Profit,Profit
+10117,2025-01-26,P028,C240,4905,110,0,Not Return,Sunday,5015,Profit,Profit
+10118,2025-03-06,P032,C261,2802,90,100,Return,Thursday,2792,Profit,Profit
+10119,2025-02-01,P020,C233,3759,108,500,Return,Saturday,3367,Profit,Profit
+10120,2025-02-02,P029,C132,2812,18,0,Not Return,Sunday,2830,Profit,Profit
+10121,2025-02-14,P042,C223,1126,143,100,Return,Friday,1169,Profit,Profit
+10122,2025-01-22,P034,C226,436,115,200,Return,Wednesday,351,Profit,Profit
+10123,2025-01-25,P028,C023,1419,109,300,Return,Saturday,1228,Profit,Profit
+10124,2025-01-25,P032,C070,1320,127,0,Not Return,Saturday,1447,Profit,Profit
+10125,2025-01-23,P009,C112,3526,168,0,Not Return,Thursday,3694,Profit,Profit
+10126,2025-01-25,P019,C255,1878,189,0,Not Return,Saturday,2067,Profit,Profit
+10127,2025-02-25,P001,C016,4133,79,400,Return,Tuesday,3812,Profit,Profit
+10128,2025-01-09,P030,C151,2995,177,0,Not Return,Thursday,3172,Profit,Profit
+10129,2025-02-04,P021,C083,545,110,500,Return,Tuesday,155,Profit,Profit
+10130,2025-03-20,P001,C095,3422,46,0,Not Return,Thursday,3468,Profit,Profit
+10131,2025-01-29,P034,C125,1271,105,0,Not Return,Wednesday,1376,Profit,Profit
+10132,2025-01-06,P018,C006,4676,156,0,Not Return,Monday,4832,Profit,Profit
+10133,2025-03-29,P043,C142,573,47,0,Not Return,Saturday,620,Profit,Profit
+10134,2025-03-14,P013,C132,908,26,0,Not Return,Friday,934,Profit,Profit
+10135,2025-03-06,P031,C010,3220,65,0,Not Return,Thursday,3285,Profit,Profit
+10136,2025-02-17,P046,C070,2587,37,100,Return,Monday,2524,Profit,Profit
+10137,2025-01-16,P048,C066,1037,33,400,Return,Thursday,670,Profit,Profit
+10138,2025-02-07,P047,C290,851,147,100,Return,Friday,898,Profit,Profit
+10139,2025-02-24,P011,C275,790,86,400,Return,Monday,476,Profit,Profit
+10140,2025-03-14,P040,C247,4628,169,200,Return,Friday,4597,Profit,Profit
+10141,2025-03-16,P047,C282,3006,154,100,Return,Sunday,3060,Profit,Profit
+10142,2025-02-14,P014,C061,3233,192,0,Not Return,Friday,3425,Profit,Profit
+10143,2025-01-23,P035,C007,4235,80,0,Not Return,Thursday,4315,Profit,Profit
+10144,2025-03-08,P025,C160,3427,60,0,Not Return,Saturday,3487,Profit,Profit
+10145,2025-01-07,P011,C053,372,75,0,Not Return,Tuesday,447,Profit,Profit
+10146,2025-03-27,P046,C035,4262,182,300,Return,Thursday,4144,Profit,Profit
+10147,2025-02-16,P009,C168,3165,77,0,Not Return,Sunday,3242,Profit,Profit
+10148,2025-01-20,P033,C137,2107,107,300,Return,Monday,1914,Profit,Profit
+10149,2025-03-17,P021,C250,3141,187,400,Return,Monday,2928,Profit,Profit
+10150,2025-01-23,P044,C063,3292,113,0,Not Return,Thursday,3405,Profit,Profit
+10151,2025-02-17,P046,C052,3257,62,100,Return,Monday,3219,Profit,Profit
+10152,2025-01-02,P001,C253,4332,177,300,Return,Thursday,4209,Profit,Profit
+10153,2025-03-06,P025,C235,4155,179,0,Not Return,Thursday,4334,Profit,Profit
+10154,2025-01-24,P041,C146,2964,143,0,Not Return,Friday,3107,Profit,Profit
+10155,2025-02-26,P009,C089,458,96,100,Return,Wednesday,454,Profit,Profit
+10156,2025-03-01,P018,C144,4132,46,100,Return,Saturday,4078,Profit,Profit
+10157,2025-02-11,P042,C068,2334,173,0,Not Return,Tuesday,2507,Profit,Profit
+10158,2025-02-26,P041,C237,4598,170,0,Not Return,Wednesday,4768,Profit,Profit
+10159,2025-03-21,P003,C112,3546,163,200,Return,Friday,3509,Profit,Profit
+10160,2025-02-04,P028,C006,609,25,100,Return,Tuesday,534,Profit,Profit
+10161,2025-01-05,P034,C105,2756,120,0,Not Return,Sunday,2876,Profit,Profit
+10162,2025-02-15,P024,C170,119,152,0,Not Return,Saturday,271,Profit,Profit
+10163,2025-01-02,P024,C011,2482,60,0,Not Return,Thursday,2542,Profit,Profit
+10164,2025-03-31,P048,C132,4935,154,200,Return,Monday,4889,Profit,Profit
+10165,2025-01-26,P016,C264,403,14,300,Return,Sunday,117,Profit,Profit
+10166,2025-03-02,P037,C215,2919,142,0,Not Return,Sunday,3061,Profit,Profit
+10167,2025-01-02,P028,C142,2191,140,0,Not Return,Thursday,2331,Profit,Profit
+10168,2025-03-12,P013,C141,3404,14,0,Not Return,Wednesday,3418,Profit,Profit
+10169,2025-02-16,P006,C025,2716,160,0,Not Return,Sunday,2876,Profit,Profit
+10170,2025-03-11,P022,C056,901,28,0,Not Return,Tuesday,929,Profit,Profit
+10171,2025-03-22,P028,C212,1344,58,0,Not Return,Saturday,1402,Profit,Profit
+10172,2025-01-25,P029,C028,2879,165,300,Return,Saturday,2744,Profit,Profit
+10173,2025-02-04,P015,C246,625,11,100,Return,Tuesday,536,Profit,Profit
+10174,2025-03-03,P026,C009,1085,124,200,Return,Monday,1009,Profit,Profit
+10175,2025-02-03,P022,C210,4258,44,100,Return,Monday,4202,Profit,Profit
+10176,2025-01-14,P034,C191,1195,27,100,Return,Tuesday,1122,Profit,Profit
+10177,2025-02-05,P012,C188,2171,74,300,Return,Wednesday,1945,Profit,Profit
+10178,2025-02-25,P031,C054,3853,49,0,Not Return,Tuesday,3902,Profit,Profit
+10179,2025-03-21,P010,C005,4447,43,500,Return,Friday,3990,Profit,Profit
+10180,2025-01-16,P008,C296,1857,129,0,Not Return,Thursday,1986,Profit,Profit
+10181,2025-02-12,P038,C289,2955,77,300,Return,Wednesday,2732,Profit,Profit
+10182,2025-03-07,P045,C144,2518,156,0,Not Return,Friday,2674,Profit,Profit
+10183,2025-01-28,P025,C142,4097,189,0,Not Return,Tuesday,4286,Profit,Profit
+10184,2025-01-13,P025,C099,714,172,0,Not Return,Monday,886,Profit,Profit
+10185,2025-01-06,P007,C279,2971,161,0,Not Return,Monday,3132,Profit,Profit
+10186,2025-01-17,P036,C094,698,165,0,Not Return,Friday,863,Profit,Profit
+10187,2025-02-06,P002,C293,1062,172,100,Return,Thursday,1134,Profit,Profit
+10188,2025-02-16,P034,C256,2176,114,0,Not Return,Sunday,2290,Profit,Profit
+10189,2025-02-05,P007,C256,766,181,300,Return,Wednesday,647,Profit,Profit
+10190,2025-01-09,P050,C050,3050,17,100,Return,Thursday,2967,Profit,Profit
+10191,2025-03-21,P049,C276,1070,94,200,Return,Friday,964,Profit,Profit
+10192,2025-01-23,P018,C245,822,183,200,Return,Thursday,805,Profit,Profit
+10193,2025-03-14,P018,C079,4589,185,500,Return,Friday,4274,Profit,Profit
+10194,2025-03-20,P006,C107,2150,92,0,Not Return,Thursday,2242,Profit,Profit
+10195,2025-03-29,P023,C041,2638,118,0,Not Return,Saturday,2756,Profit,Profit
+10196,2025-03-13,P006,C251,957,77,0,Not Return,Thursday,1034,Profit,Profit
+10197,2025-02-09,P024,C127,1292,199,0,Not Return,Sunday,1491,Profit,Profit
+10198,2025-03-21,P044,C266,3181,151,300,Return,Friday,3032,Profit,Profit
+10199,2025-01-02,P010,C072,2065,167,0,Not Return,Thursday,2232,Profit,Profit
+10200,2025-02-08,P009,C258,4195,161,100,Return,Saturday,4256,Profit,Profit
+10201,2025-03-06,P044,C216,1574,86,0,Not Return,Thursday,1660,Profit,Profit
+10202,2025-01-30,P008,C259,589,156,0,Not Return,Thursday,745,Profit,Profit
+10203,2025-03-27,P041,C051,1378,93,0,Not Return,Thursday,1471,Profit,Profit
+10204,2025-01-23,P014,C279,142,150,300,Return,Thursday,-8,Loss,Loss
+10205,2025-01-26,P023,C088,4289,21,100,Return,Sunday,4210,Profit,Profit
+10206,2025-02-18,P032,C119,4611,51,0,Not Return,Tuesday,4662,Profit,Profit
+10207,2025-02-20,P002,C193,450,72,0,Not Return,Thursday,522,Profit,Profit
+10208,2025-02-13,P043,C002,3319,178,500,Return,Thursday,2997,Profit,Profit
+10209,2025-01-07,P009,C042,2919,42,200,Return,Tuesday,2761,Profit,Profit
+10210,2025-03-19,P004,C036,4655,82,200,Return,Wednesday,4537,Profit,Profit
+10211,2025-01-15,P041,C232,741,139,500,Return,Wednesday,380,Profit,Profit
+10212,2025-03-15,P015,C184,2553,62,200,Return,Saturday,2415,Profit,Profit
+10213,2025-01-06,P016,C187,1224,80,0,Not Return,Monday,1304,Profit,Profit
+10214,2025-01-09,P039,C048,1714,12,200,Return,Thursday,1526,Profit,Profit
+10215,2025-01-12,P006,C287,4373,124,200,Return,Sunday,4297,Profit,Profit
+10216,2025-02-28,P028,C093,3859,164,0,Not Return,Friday,4023,Profit,Profit
+10217,2025-02-21,P013,C058,2272,163,0,Not Return,Friday,2435,Profit,Profit
+10218,2025-03-03,P010,C178,689,177,400,Return,Monday,466,Profit,Profit
+10219,2025-01-23,P043,C050,2114,20,200,Return,Thursday,1934,Profit,Profit
+10220,2025-03-22,P003,C047,2930,180,300,Return,Saturday,2810,Profit,Profit
+10221,2025-03-04,P005,C040,4537,177,100,Return,Tuesday,4614,Profit,Profit
+10222,2025-03-23,P005,C186,149,38,0,Not Return,Sunday,187,Profit,Profit
+10223,2025-03-16,P010,C274,2755,166,0,Not Return,Sunday,2921,Profit,Profit
+10224,2025-02-09,P034,C088,4823,24,500,Return,Sunday,4347,Profit,Profit
+10225,2025-03-13,P042,C288,2904,115,400,Return,Thursday,2619,Profit,Profit
+10226,2025-03-01,P024,C051,1349,138,100,Return,Saturday,1387,Profit,Profit
+10227,2025-01-05,P045,C196,3602,53,300,Return,Sunday,3355,Profit,Profit
+10228,2025-01-04,P011,C209,1933,110,0,Not Return,Saturday,2043,Profit,Profit
+10229,2025-03-30,P020,C249,2505,42,500,Return,Sunday,2047,Profit,Profit
+10230,2025-02-21,P001,C124,4901,70,300,Return,Friday,4671,Profit,Profit
+10231,2025-01-31,P018,C289,4541,156,300,Return,Friday,4397,Profit,Profit
+10232,2025-03-04,P008,C062,1312,11,0,Not Return,Tuesday,1323,Profit,Profit
+10233,2025-01-10,P037,C009,4841,110,200,Return,Friday,4751,Profit,Profit
+10234,2025-02-11,P004,C284,839,151,500,Return,Tuesday,490,Profit,Profit
+10235,2025-03-20,P007,C260,2844,122,100,Return,Thursday,2866,Profit,Profit
+10236,2025-01-20,P016,C085,3643,120,500,Return,Monday,3263,Profit,Profit
+10237,2025-01-11,P019,C297,3533,189,100,Return,Saturday,3622,Profit,Profit
+10238,2025-02-04,P046,C251,4275,193,500,Return,Tuesday,3968,Profit,Profit
+10239,2025-02-12,P012,C290,2685,12,300,Return,Wednesday,2397,Profit,Profit
+10240,2025-02-17,P011,C245,3100,191,500,Return,Monday,2791,Profit,Profit
+10241,2025-02-18,P021,C289,3217,119,100,Return,Tuesday,3236,Profit,Profit
+10242,2025-01-18,P010,C059,2990,190,0,Not Return,Saturday,3180,Profit,Profit
+10243,2025-01-15,P035,C239,3418,124,200,Return,Wednesday,3342,Profit,Profit
+10244,2025-01-02,P027,C030,1292,122,100,Return,Thursday,1314,Profit,Profit
+10245,2025-01-16,P047,C134,4161,62,0,Not Return,Thursday,4223,Profit,Profit
+10246,2025-01-03,P032,C163,2295,41,0,Not Return,Friday,2336,Profit,Profit
+10247,2025-02-13,P011,C062,2430,114,0,Not Return,Thursday,2544,Profit,Profit
+10248,2025-03-13,P012,C059,1206,80,500,Return,Thursday,786,Profit,Profit
+10249,2025-02-02,P031,C086,3051,195,200,Return,Sunday,3046,Profit,Profit
+10250,2025-03-22,P046,C098,4903,25,0,Not Return,Saturday,4928,Profit,Profit
+10251,2025-03-09,P011,C118,3091,150,300,Return,Sunday,2941,Profit,Profit
+10252,2025-01-14,P044,C153,3400,139,100,Return,Tuesday,3439,Profit,Profit
+10253,2025-01-20,P013,C296,4604,94,500,Return,Monday,4198,Profit,Profit
+10254,2025-01-12,P045,C289,458,169,200,Return,Sunday,427,Profit,Profit
+10255,2025-01-03,P004,C038,2211,110,0,Not Return,Friday,2321,Profit,Profit
+10256,2025-02-15,P027,C272,1535,175,200,Return,Saturday,1510,Profit,Profit
+10257,2025-02-06,P016,C109,1990,194,100,Return,Thursday,2084,Profit,Profit
+10258,2025-03-08,P023,C219,1433,179,500,Return,Saturday,1112,Profit,Profit
+10259,2025-02-09,P025,C010,2619,26,400,Return,Sunday,2245,Profit,Profit
+10260,2025-03-30,P039,C019,3114,151,200,Return,Sunday,3065,Profit,Profit
+10261,2025-02-01,P030,C106,2325,114,0,Not Return,Saturday,2439,Profit,Profit
+10262,2025-02-23,P013,C235,3310,99,0,Not Return,Sunday,3409,Profit,Profit
+10263,2025-02-03,P028,C235,4784,172,0,Not Return,Monday,4956,Profit,Profit
+10264,2025-03-26,P023,C159,316,31,400,Return,Wednesday,-53,Loss,Loss
+10265,2025-03-14,P046,C026,4652,97,0,Not Return,Friday,4749,Profit,Profit
+10266,2025-01-14,P045,C020,1968,90,500,Return,Tuesday,1558,Profit,Profit
+10267,2025-03-31,P013,C239,2392,50,400,Return,Monday,2042,Profit,Profit
+10268,2025-01-14,P027,C061,4987,64,0,Not Return,Tuesday,5051,Profit,Profit
+10269,2025-02-10,P018,C159,1173,77,300,Return,Monday,950,Profit,Profit
+10270,2025-02-16,P023,C208,3689,33,0,Not Return,Sunday,3722,Profit,Profit
+10271,2025-02-09,P034,C247,1883,25,400,Return,Sunday,1508,Profit,Profit
+10272,2025-02-26,P010,C230,1048,159,300,Return,Wednesday,907,Profit,Profit
+10273,2025-02-11,P014,C297,2630,178,400,Return,Tuesday,2408,Profit,Profit
+10274,2025-01-17,P009,C164,4495,144,0,Not Return,Friday,4639,Profit,Profit
+10275,2025-02-14,P047,C261,2603,149,0,Not Return,Friday,2752,Profit,Profit
+10276,2025-01-02,P015,C256,2163,100,0,Not Return,Thursday,2263,Profit,Profit
+10277,2025-02-06,P044,C120,1451,10,500,Return,Thursday,961,Profit,Profit
+10278,2025-02-16,P047,C273,175,63,0,Not Return,Sunday,238,Profit,Profit
+10279,2025-03-18,P020,C026,2675,17,500,Return,Tuesday,2192,Profit,Profit
+10280,2025-01-31,P016,C198,4556,123,500,Return,Friday,4179,Profit,Profit
+10281,2025-02-02,P017,C132,720,93,400,Return,Sunday,413,Profit,Profit
+10282,2025-02-24,P030,C034,123,132,500,Return,Monday,-245,Loss,Loss
+10283,2025-02-27,P007,C163,366,71,0,Not Return,Thursday,437,Profit,Profit
+10284,2025-03-01,P048,C071,2951,185,100,Return,Saturday,3036,Profit,Profit
+10285,2025-03-30,P043,C275,4184,124,100,Return,Sunday,4208,Profit,Profit
+10286,2025-02-04,P007,C064,839,185,0,Not Return,Tuesday,1024,Profit,Profit
+10287,2025-01-25,P033,C139,2410,177,0,Not Return,Saturday,2587,Profit,Profit
+10288,2025-02-07,P043,C123,2945,65,0,Not Return,Friday,3010,Profit,Profit
+10289,2025-01-29,P033,C193,3049,132,100,Return,Wednesday,3081,Profit,Profit
+10290,2025-02-12,P003,C010,3411,26,100,Return,Wednesday,3337,Profit,Profit
+10291,2025-04-01,P018,C279,1011,94,0,Not Return,Tuesday,1105,Profit,Profit
+10292,2025-01-21,P002,C105,3414,75,0,Not Return,Tuesday,3489,Profit,Profit
+10293,2025-03-31,P032,C215,267,156,200,Return,Monday,223,Profit,Profit
+10294,2025-03-14,P001,C133,1191,123,400,Return,Friday,914,Profit,Profit
+10295,2025-02-10,P045,C023,505,105,400,Return,Monday,210,Profit,Profit
+10296,2025-02-27,P033,C211,3867,192,0,Not Return,Thursday,4059,Profit,Profit
+10297,2025-01-22,P027,C213,1175,199,0,Not Return,Wednesday,1374,Profit,Profit
+10298,2025-01-17,P011,C001,4524,11,100,Return,Friday,4435,Profit,Profit
+10299,2025-02-10,P022,C019,288,116,200,Return,Monday,204,Profit,Profit
+10300,2025-02-06,P017,C079,2668,34,100,Return,Thursday,2602,Profit,Profit
+10301,2025-02-20,P027,C067,2421,53,300,Return,Thursday,2174,Profit,Profit
+10302,2025-02-20,P030,C120,794,26,200,Return,Thursday,620,Profit,Profit
+10303,2025-01-16,P034,C131,4380,194,200,Return,Thursday,4374,Profit,Profit
+10304,2025-03-28,P013,C169,1756,23,400,Return,Friday,1379,Profit,Profit
+10305,2025-02-19,P001,C072,4891,79,0,Not Return,Wednesday,4970,Profit,Profit
+10306,2025-01-13,P011,C279,778,199,300,Return,Monday,677,Profit,Profit
+10307,2025-01-02,P019,C076,1205,15,0,Not Return,Thursday,1220,Profit,Profit
+10308,2025-02-18,P037,C148,3409,197,0,Not Return,Tuesday,3606,Profit,Profit
+10309,2025-01-07,P036,C296,2918,160,100,Return,Tuesday,2978,Profit,Profit
+10310,2025-02-27,P018,C068,1955,74,0,Not Return,Thursday,2029,Profit,Profit
+10311,2025-01-12,P002,C140,4160,72,100,Return,Sunday,4132,Profit,Profit
+10312,2025-03-19,P034,C083,4508,200,0,Not Return,Wednesday,4708,Profit,Profit
+10313,2025-03-29,P042,C145,1990,159,500,Return,Saturday,1649,Profit,Profit
+10314,2025-03-18,P049,C089,1909,52,400,Return,Tuesday,1561,Profit,Profit
+10315,2025-02-11,P008,C142,434,96,500,Return,Tuesday,30,Profit,Profit
+10316,2025-03-21,P047,C192,1709,33,0,Not Return,Friday,1742,Profit,Profit
+10317,2025-01-20,P041,C259,4722,130,400,Return,Monday,4452,Profit,Profit
+10318,2025-02-22,P001,C224,3109,142,200,Return,Saturday,3051,Profit,Profit
+10319,2025-01-03,P002,C258,2852,172,100,Return,Friday,2924,Profit,Profit
+10320,2025-01-16,P019,C225,1810,175,0,Not Return,Thursday,1985,Profit,Profit
+10321,2025-02-17,P021,C289,285,162,0,Not Return,Monday,447,Profit,Profit
+10322,2025-03-09,P036,C271,1540,161,0,Not Return,Sunday,1701,Profit,Profit
+10323,2025-02-03,P004,C042,1850,166,0,Not Return,Monday,2016,Profit,Profit
+10324,2025-01-21,P004,C227,749,176,0,Not Return,Tuesday,925,Profit,Profit
+10325,2025-01-11,P021,C211,298,62,0,Not Return,Saturday,360,Profit,Profit
+10326,2025-03-21,P047,C185,2010,152,200,Return,Friday,1962,Profit,Profit
+10327,2025-02-09,P001,C093,1733,181,200,Return,Sunday,1714,Profit,Profit
+10328,2025-03-04,P021,C194,1386,57,300,Return,Tuesday,1143,Profit,Profit
+10329,2025-01-29,P015,C254,363,94,0,Not Return,Wednesday,457,Profit,Profit
+10330,2025-03-12,P042,C248,3819,123,0,Not Return,Wednesday,3942,Profit,Profit
+10331,2025-03-18,P038,C018,794,176,100,Return,Tuesday,870,Profit,Profit
+10332,2025-02-21,P043,C175,4120,118,200,Return,Friday,4038,Profit,Profit
+10333,2025-01-17,P034,C147,1814,105,100,Return,Friday,1819,Profit,Profit
+10334,2025-03-16,P003,C053,2832,47,0,Not Return,Sunday,2879,Profit,Profit
+10335,2025-02-03,P008,C223,2539,178,0,Not Return,Monday,2717,Profit,Profit
+10336,2025-01-28,P021,C193,1161,141,0,Not Return,Tuesday,1302,Profit,Profit
+10337,2025-01-31,P043,C082,3395,92,0,Not Return,Friday,3487,Profit,Profit
+10338,2025-02-17,P017,C269,3423,105,0,Not Return,Monday,3528,Profit,Profit
+10339,2025-01-03,P035,C043,2083,40,500,Return,Friday,1623,Profit,Profit
+10340,2025-02-20,P025,C069,118,54,200,Return,Thursday,-28,Loss,Loss
+10341,2025-03-05,P040,C256,3513,147,0,Not Return,Wednesday,3660,Profit,Profit
+10342,2025-03-20,P002,C121,2578,184,500,Return,Thursday,2262,Profit,Profit
+10343,2025-03-24,P049,C194,1608,36,0,Not Return,Monday,1644,Profit,Profit
+10344,2025-01-24,P003,C200,1770,139,0,Not Return,Friday,1909,Profit,Profit
+10345,2025-01-08,P020,C161,594,63,200,Return,Wednesday,457,Profit,Profit
+10346,2025-01-21,P012,C275,3971,48,0,Not Return,Tuesday,4019,Profit,Profit
+10347,2025-02-16,P020,C010,3596,11,200,Return,Sunday,3407,Profit,Profit
+10348,2025-03-21,P023,C178,4505,159,300,Return,Friday,4364,Profit,Profit
+10349,2025-01-18,P038,C252,3967,91,0,Not Return,Saturday,4058,Profit,Profit
+10350,2025-03-08,P008,C202,195,134,200,Return,Saturday,129,Profit,Profit
+10351,2025-02-20,P034,C052,2519,17,400,Return,Thursday,2136,Profit,Profit
+10352,2025-02-22,P005,C233,2485,105,0,Not Return,Saturday,2590,Profit,Profit
+10353,2025-02-22,P016,C013,3188,43,200,Return,Saturday,3031,Profit,Profit
+10354,2025-02-23,P032,C033,2288,118,0,Not Return,Sunday,2406,Profit,Profit
+10355,2025-01-02,P023,C005,1312,60,0,Not Return,Thursday,1372,Profit,Profit
+10356,2025-03-28,P026,C206,3748,191,0,Not Return,Friday,3939,Profit,Profit
+10357,2025-02-12,P040,C088,221,183,100,Return,Wednesday,304,Profit,Profit
+10358,2025-02-17,P015,C109,3886,195,0,Not Return,Monday,4081,Profit,Profit
+10359,2025-02-10,P038,C261,1959,83,200,Return,Monday,1842,Profit,Profit
+10360,2025-03-21,P034,C224,4008,142,300,Return,Friday,3850,Profit,Profit
+10361,2025-03-10,P011,C255,2134,180,0,Not Return,Monday,2314,Profit,Profit
+10362,2025-01-09,P002,C002,2692,60,0,Not Return,Thursday,2752,Profit,Profit
+10363,2025-03-12,P030,C204,3548,134,0,Not Return,Wednesday,3682,Profit,Profit
+10364,2025-02-10,P015,C054,2108,101,0,Not Return,Monday,2209,Profit,Profit
+10365,2025-02-04,P036,C245,4372,125,0,Not Return,Tuesday,4497,Profit,Profit
+10366,2025-03-31,P009,C025,1333,189,400,Return,Monday,1122,Profit,Profit
+10367,2025-01-16,P045,C105,2587,96,0,Not Return,Thursday,2683,Profit,Profit
+10368,2025-01-23,P035,C137,130,91,0,Not Return,Thursday,221,Profit,Profit
+10369,2025-01-09,P011,C165,805,110,100,Return,Thursday,815,Profit,Profit
+10370,2025-01-18,P029,C219,4308,23,500,Return,Saturday,3831,Profit,Profit
+10371,2025-02-17,P009,C112,3188,170,200,Return,Monday,3158,Profit,Profit
+10372,2025-03-25,P043,C164,2168,120,400,Return,Tuesday,1888,Profit,Profit
+10373,2025-01-21,P050,C299,1114,14,0,Not Return,Tuesday,1128,Profit,Profit
+10374,2025-03-14,P028,C203,2867,176,0,Not Return,Friday,3043,Profit,Profit
+10375,2025-02-04,P020,C112,2512,33,500,Return,Tuesday,2045,Profit,Profit
+10376,2025-03-01,P049,C133,1197,132,200,Return,Saturday,1129,Profit,Profit
+10377,2025-01-18,P050,C295,1628,10,0,Not Return,Saturday,1638,Profit,Profit
+10378,2025-03-29,P016,C288,3765,49,0,Not Return,Saturday,3814,Profit,Profit
+10379,2025-03-15,P017,C098,2661,200,0,Not Return,Saturday,2861,Profit,Profit
+10380,2025-03-07,P032,C234,2489,140,0,Not Return,Friday,2629,Profit,Profit
+10381,2025-03-01,P042,C001,3425,89,100,Return,Saturday,3414,Profit,Profit
+10382,2025-02-08,P021,C009,2476,43,0,Not Return,Saturday,2519,Profit,Profit
+10383,2025-01-01,P041,C175,1090,136,0,Not Return,Wednesday,1226,Profit,Profit
+10384,2025-03-18,P004,C048,3827,155,400,Return,Tuesday,3582,Profit,Profit
+10385,2025-01-29,P008,C236,464,188,100,Return,Wednesday,552,Profit,Profit
+10386,2025-01-31,P047,C193,4905,117,0,Not Return,Friday,5022,Profit,Profit
+10387,2025-01-14,P012,C164,2925,65,0,Not Return,Tuesday,2990,Profit,Profit
+10388,2025-01-31,P037,C180,4016,164,400,Return,Friday,3780,Profit,Profit
+10389,2025-02-28,P034,C145,2063,129,200,Return,Friday,1992,Profit,Profit
+10390,2025-03-21,P011,C231,4858,138,100,Return,Friday,4896,Profit,Profit
+10391,2025-01-21,P007,C114,4854,194,100,Return,Tuesday,4948,Profit,Profit
+10392,2025-01-16,P018,C239,4894,75,0,Not Return,Thursday,4969,Profit,Profit
+10393,2025-03-04,P024,C273,4297,154,400,Return,Tuesday,4051,Profit,Profit
+10394,2025-01-23,P027,C115,2975,164,500,Return,Thursday,2639,Profit,Profit
+10395,2025-02-10,P043,C233,2872,66,0,Not Return,Monday,2938,Profit,Profit
+10396,2025-03-30,P033,C169,4617,28,0,Not Return,Sunday,4645,Profit,Profit
+10397,2025-01-12,P010,C188,2651,167,0,Not Return,Sunday,2818,Profit,Profit
+10398,2025-02-21,P015,C057,1420,153,300,Return,Friday,1273,Profit,Profit
+10399,2025-03-08,P037,C194,3917,193,300,Return,Saturday,3810,Profit,Profit
+10400,2025-02-11,P026,C036,3431,80,200,Return,Tuesday,3311,Profit,Profit
+10401,2025-03-07,P026,C160,2131,102,0,Not Return,Friday,2233,Profit,Profit
+10402,2025-02-22,P005,C062,3058,43,0,Not Return,Saturday,3101,Profit,Profit
+10403,2025-02-23,P043,C288,616,175,100,Return,Sunday,691,Profit,Profit
+10404,2025-02-15,P021,C211,4813,98,500,Return,Saturday,4411,Profit,Profit
+10405,2025-02-14,P024,C092,873,124,400,Return,Friday,597,Profit,Profit
+10406,2025-01-14,P021,C282,4266,92,0,Not Return,Tuesday,4358,Profit,Profit
+10407,2025-02-15,P038,C249,1301,51,0,Not Return,Saturday,1352,Profit,Profit
+10408,2025-01-02,P011,C056,1503,104,0,Not Return,Thursday,1607,Profit,Profit
+10409,2025-03-27,P002,C297,2724,163,0,Not Return,Thursday,2887,Profit,Profit
+10410,2025-01-01,P009,C105,2324,147,100,Return,Wednesday,2371,Profit,Profit
+10411,2025-03-14,P017,C151,2675,108,0,Not Return,Friday,2783,Profit,Profit
+10412,2025-02-25,P005,C033,4352,163,200,Return,Tuesday,4315,Profit,Profit
+10413,2025-02-05,P039,C087,4120,166,400,Return,Wednesday,3886,Profit,Profit
+10414,2025-02-05,P029,C249,4139,43,200,Return,Wednesday,3982,Profit,Profit
+10415,2025-01-27,P041,C099,4887,54,0,Not Return,Monday,4941,Profit,Profit
+10416,2025-01-18,P017,C064,731,107,0,Not Return,Saturday,838,Profit,Profit
+10417,2025-03-31,P036,C155,2034,155,0,Not Return,Monday,2189,Profit,Profit
+10418,2025-02-09,P006,C287,2441,118,400,Return,Sunday,2159,Profit,Profit
+10419,2025-02-28,P015,C050,2775,123,0,Not Return,Friday,2898,Profit,Profit
+10420,2025-01-18,P031,C214,2854,190,400,Return,Saturday,2644,Profit,Profit
+10421,2025-03-24,P021,C257,2881,142,500,Return,Monday,2523,Profit,Profit
+10422,2025-01-25,P044,C128,2382,135,0,Not Return,Saturday,2517,Profit,Profit
+10423,2025-02-02,P024,C135,154,136,300,Return,Sunday,-10,Loss,Loss
+10424,2025-01-10,P016,C157,3079,159,0,Not Return,Friday,3238,Profit,Profit
+10425,2025-03-06,P027,C241,3418,48,100,Return,Thursday,3366,Profit,Profit
+10426,2025-02-15,P002,C066,217,88,0,Not Return,Saturday,305,Profit,Profit
+10427,2025-03-14,P016,C211,3494,104,500,Return,Friday,3098,Profit,Profit
+10428,2025-01-31,P045,C223,630,152,0,Not Return,Friday,782,Profit,Profit
+10429,2025-03-23,P013,C257,3110,87,0,Not Return,Sunday,3197,Profit,Profit
+10430,2025-03-24,P036,C169,1543,143,0,Not Return,Monday,1686,Profit,Profit
+10431,2025-03-04,P036,C016,4132,86,400,Return,Tuesday,3818,Profit,Profit
+10432,2025-01-27,P025,C002,3842,166,0,Not Return,Monday,4008,Profit,Profit
+10433,2025-01-23,P048,C191,3296,150,0,Not Return,Thursday,3446,Profit,Profit
+10434,2025-03-15,P027,C166,3017,120,100,Return,Saturday,3037,Profit,Profit
+10435,2025-03-29,P012,C124,301,130,0,Not Return,Saturday,431,Profit,Profit
+10436,2025-02-19,P036,C015,2788,19,200,Return,Wednesday,2607,Profit,Profit
+10437,2025-03-23,P021,C266,1611,75,200,Return,Sunday,1486,Profit,Profit
+10438,2025-02-28,P031,C048,2067,178,0,Not Return,Friday,2245,Profit,Profit
+10439,2025-02-13,P009,C029,690,116,0,Not Return,Thursday,806,Profit,Profit
+10440,2025-01-15,P017,C162,4956,47,500,Return,Wednesday,4503,Profit,Profit
+10441,2025-03-03,P034,C278,3073,196,100,Return,Monday,3169,Profit,Profit
+10442,2025-02-20,P031,C291,2527,10,100,Return,Thursday,2437,Profit,Profit
+10443,2025-01-26,P048,C206,1411,136,400,Return,Sunday,1147,Profit,Profit
+10444,2025-01-20,P040,C239,3244,125,0,Not Return,Monday,3369,Profit,Profit
+10445,2025-03-14,P006,C207,2586,14,100,Return,Friday,2500,Profit,Profit
+10446,2025-03-13,P036,C271,4576,129,0,Not Return,Thursday,4705,Profit,Profit
+10447,2025-03-27,P045,C179,1785,44,0,Not Return,Thursday,1829,Profit,Profit
+10448,2025-03-17,P001,C109,4925,170,200,Return,Monday,4895,Profit,Profit
+10449,2025-01-26,P020,C262,1148,183,0,Not Return,Sunday,1331,Profit,Profit
+10450,2025-01-17,P038,C199,4348,80,300,Return,Friday,4128,Profit,Profit
+10451,2025-03-12,P025,C259,4451,147,100,Return,Wednesday,4498,Profit,Profit
+10452,2025-03-06,P015,C077,4329,129,500,Return,Thursday,3958,Profit,Profit
+10453,2025-03-02,P029,C095,2175,167,0,Not Return,Sunday,2342,Profit,Profit
+10454,2025-03-23,P035,C009,3195,152,300,Return,Sunday,3047,Profit,Profit
+10455,2025-03-04,P022,C154,1223,195,0,Not Return,Tuesday,1418,Profit,Profit
+10456,2025-03-02,P040,C295,3973,23,0,Not Return,Sunday,3996,Profit,Profit
+10457,2025-03-31,P045,C070,285,89,0,Not Return,Monday,374,Profit,Profit
+10458,2025-02-23,P012,C297,462,128,0,Not Return,Sunday,590,Profit,Profit
+10459,2025-04-01,P024,C050,2723,59,500,Return,Tuesday,2282,Profit,Profit
+10460,2025-01-08,P032,C121,3649,45,100,Return,Wednesday,3594,Profit,Profit
+10461,2025-02-15,P009,C269,1831,145,0,Not Return,Saturday,1976,Profit,Profit
+10462,2025-03-03,P023,C217,169,32,300,Return,Monday,-99,Loss,Loss
+10463,2025-02-25,P044,C273,4554,47,0,Not Return,Tuesday,4601,Profit,Profit
+10464,2025-01-27,P033,C296,3465,96,0,Not Return,Monday,3561,Profit,Profit
+10465,2025-01-14,P001,C206,4194,39,0,Not Return,Tuesday,4233,Profit,Profit
+10466,2025-01-24,P030,C023,1904,16,100,Return,Friday,1820,Profit,Profit
+10467,2025-03-01,P023,C166,1057,68,0,Not Return,Saturday,1125,Profit,Profit
+10468,2025-03-16,P031,C269,1720,141,0,Not Return,Sunday,1861,Profit,Profit
+10469,2025-03-05,P036,C147,2430,49,400,Return,Wednesday,2079,Profit,Profit
+10470,2025-01-03,P025,C197,4127,122,0,Not Return,Friday,4249,Profit,Profit
+10471,2025-01-14,P001,C145,206,90,0,Not Return,Tuesday,296,Profit,Profit
+10472,2025-01-16,P020,C115,3521,197,200,Return,Thursday,3518,Profit,Profit
+10473,2025-01-14,P019,C279,3536,120,0,Not Return,Tuesday,3656,Profit,Profit
+10474,2025-02-10,P007,C210,1399,58,0,Not Return,Monday,1457,Profit,Profit
+10475,2025-03-07,P024,C153,1230,25,100,Return,Friday,1155,Profit,Profit
+10476,2025-03-30,P008,C011,3473,190,500,Return,Sunday,3163,Profit,Profit
+10477,2025-03-18,P050,C173,4311,138,0,Not Return,Tuesday,4449,Profit,Profit
+10478,2025-02-04,P047,C051,350,185,500,Return,Tuesday,35,Profit,Profit
+10479,2025-02-13,P004,C179,2613,11,500,Return,Thursday,2124,Profit,Profit
+10480,2025-02-20,P004,C253,1406,155,200,Return,Thursday,1361,Profit,Profit
+10481,2025-03-18,P048,C062,1137,158,200,Return,Tuesday,1095,Profit,Profit
+10482,2025-02-10,P044,C157,3809,99,500,Return,Monday,3408,Profit,Profit
+10483,2025-03-23,P011,C216,1342,167,500,Return,Sunday,1009,Profit,Profit
+10484,2025-02-26,P024,C201,4545,59,500,Return,Wednesday,4104,Profit,Profit
+10485,2025-02-14,P015,C005,3227,68,0,Not Return,Friday,3295,Profit,Profit
+10486,2025-02-05,P017,C077,830,69,0,Not Return,Wednesday,899,Profit,Profit
+10487,2025-01-14,P047,C193,1339,179,0,Not Return,Tuesday,1518,Profit,Profit
+10488,2025-03-28,P013,C219,1598,118,300,Return,Friday,1416,Profit,Profit
+10489,2025-01-12,P033,C066,1187,143,0,Not Return,Sunday,1330,Profit,Profit
+10490,2025-01-14,P010,C002,2810,70,200,Return,Tuesday,2680,Profit,Profit
+10491,2025-01-23,P029,C227,1884,15,400,Return,Thursday,1499,Profit,Profit
+10492,2025-03-20,P009,C207,4020,155,200,Return,Thursday,3975,Profit,Profit
+10493,2025-01-25,P010,C069,4192,131,200,Return,Saturday,4123,Profit,Profit
+10494,2025-03-06,P016,C173,1691,47,100,Return,Thursday,1638,Profit,Profit
+10495,2025-03-30,P045,C183,1228,70,100,Return,Sunday,1198,Profit,Profit
+10496,2025-03-10,P037,C296,2028,199,400,Return,Monday,1827,Profit,Profit
+10497,2025-02-06,P023,C235,4410,198,0,Not Return,Thursday,4608,Profit,Profit
+10498,2025-02-18,P040,C117,3850,106,200,Return,Tuesday,3756,Profit,Profit
+10499,2025-02-18,P011,C135,3326,49,100,Return,Tuesday,3275,Profit,Profit
+10500,2025-02-19,P032,C138,691,106,0,Not Return,Wednesday,797,Profit,Profit
+10501,2025-03-21,P022,C290,4911,152,300,Return,Friday,4763,Profit,Profit
+10502,2025-03-08,P015,C147,2280,89,0,Not Return,Saturday,2369,Profit,Profit
+10503,2025-02-25,P033,C086,2028,84,0,Not Return,Tuesday,2112,Profit,Profit
+10504,2025-01-17,P020,C017,1442,128,0,Not Return,Friday,1570,Profit,Profit
+10505,2025-03-08,P026,C259,647,152,0,Not Return,Saturday,799,Profit,Profit
+10506,2025-03-12,P018,C110,334,187,0,Not Return,Wednesday,521,Profit,Profit
+10507,2025-03-09,P023,C216,4596,86,200,Return,Sunday,4482,Profit,Profit
+10508,2025-01-09,P031,C235,1639,156,200,Return,Thursday,1595,Profit,Profit
+10509,2025-02-26,P016,C204,3247,63,100,Return,Wednesday,3210,Profit,Profit
+10510,2025-03-12,P041,C177,513,97,0,Not Return,Wednesday,610,Profit,Profit
+10511,2025-01-09,P019,C196,2049,185,0,Not Return,Thursday,2234,Profit,Profit
+10512,2025-03-10,P047,C118,4012,128,100,Return,Monday,4040,Profit,Profit
+10513,2025-03-14,P021,C229,549,15,0,Not Return,Friday,564,Profit,Profit
+10514,2025-03-06,P023,C137,3372,93,300,Return,Thursday,3165,Profit,Profit
+10515,2025-03-14,P019,C016,851,32,300,Return,Friday,583,Profit,Profit
+10516,2025-01-17,P022,C276,549,20,0,Not Return,Friday,569,Profit,Profit
+10517,2025-01-25,P050,C186,4110,147,0,Not Return,Saturday,4257,Profit,Profit
+10518,2025-02-05,P049,C078,411,178,500,Return,Wednesday,89,Profit,Profit
+10519,2025-01-08,P018,C004,1133,79,0,Not Return,Wednesday,1212,Profit,Profit
+10520,2025-03-06,P012,C021,4330,125,500,Return,Thursday,3955,Profit,Profit
+10521,2025-01-01,P011,C200,4727,50,300,Return,Wednesday,4477,Profit,Profit
+10522,2025-03-15,P027,C183,1086,15,200,Return,Saturday,901,Profit,Profit
+10523,2025-02-26,P017,C252,3221,63,200,Return,Wednesday,3084,Profit,Profit
+10524,2025-02-10,P022,C022,2377,94,200,Return,Monday,2271,Profit,Profit
+10525,2025-01-25,P037,C038,1602,120,0,Not Return,Saturday,1722,Profit,Profit
+10526,2025-03-12,P011,C079,1587,93,0,Not Return,Wednesday,1680,Profit,Profit
+10527,2025-01-24,P033,C179,1083,82,0,Not Return,Friday,1165,Profit,Profit
+10528,2025-02-20,P007,C189,3538,93,300,Return,Thursday,3331,Profit,Profit
+10529,2025-03-14,P032,C237,3818,81,0,Not Return,Friday,3899,Profit,Profit
+10530,2025-02-25,P034,C296,4342,29,0,Not Return,Tuesday,4371,Profit,Profit
+10531,2025-03-12,P022,C070,4335,89,0,Not Return,Wednesday,4424,Profit,Profit
+10532,2025-03-13,P024,C184,3029,15,0,Not Return,Thursday,3044,Profit,Profit
+10533,2025-02-27,P028,C047,2206,110,0,Not Return,Thursday,2316,Profit,Profit
+10534,2025-01-03,P014,C230,694,165,300,Return,Friday,559,Profit,Profit
+10535,2025-01-12,P043,C216,4844,78,0,Not Return,Sunday,4922,Profit,Profit
+10536,2025-01-13,P042,C004,4417,197,400,Return,Monday,4214,Profit,Profit
+10537,2025-01-04,P050,C293,375,189,0,Not Return,Saturday,564,Profit,Profit
+10538,2025-03-24,P014,C230,607,126,400,Return,Monday,333,Profit,Profit
+10539,2025-02-04,P024,C264,3436,135,500,Return,Tuesday,3071,Profit,Profit
+10540,2025-02-17,P018,C230,2444,137,0,Not Return,Monday,2581,Profit,Profit
+10541,2025-02-23,P042,C195,1855,193,100,Return,Sunday,1948,Profit,Profit
+10542,2025-03-28,P007,C098,2884,105,0,Not Return,Friday,2989,Profit,Profit
+10543,2025-03-18,P019,C214,287,30,0,Not Return,Tuesday,317,Profit,Profit
+10544,2025-02-01,P039,C216,4375,40,0,Not Return,Saturday,4415,Profit,Profit
+10545,2025-02-03,P009,C273,438,44,0,Not Return,Monday,482,Profit,Profit
+10546,2025-02-06,P022,C038,298,139,300,Return,Thursday,137,Profit,Profit
+10547,2025-03-29,P006,C159,2431,162,100,Return,Saturday,2493,Profit,Profit
+10548,2025-03-30,P043,C031,302,84,500,Return,Sunday,-114,Loss,Loss
+10549,2025-02-21,P036,C011,1341,169,200,Return,Friday,1310,Profit,Profit
+10550,2025-03-18,P026,C239,3559,174,0,Not Return,Tuesday,3733,Profit,Profit
+10551,2025-03-02,P024,C232,2784,190,0,Not Return,Sunday,2974,Profit,Profit
+10552,2025-03-19,P020,C290,638,182,500,Return,Wednesday,320,Profit,Profit
+10553,2025-02-27,P048,C194,4475,67,400,Return,Thursday,4142,Profit,Profit
+10554,2025-02-22,P021,C264,3885,166,0,Not Return,Saturday,4051,Profit,Profit
+10555,2025-02-22,P004,C258,3369,61,0,Not Return,Saturday,3430,Profit,Profit
+10556,2025-01-14,P047,C229,1283,103,0,Not Return,Tuesday,1386,Profit,Profit
+10557,2025-02-25,P033,C022,923,190,400,Return,Tuesday,713,Profit,Profit
+10558,2025-01-05,P020,C191,2657,70,0,Not Return,Sunday,2727,Profit,Profit
+10559,2025-01-05,P025,C036,3289,136,400,Return,Sunday,3025,Profit,Profit
+10560,2025-01-12,P010,C082,4855,101,400,Return,Sunday,4556,Profit,Profit
+10561,2025-01-18,P050,C151,200,111,0,Not Return,Saturday,311,Profit,Profit
+10562,2025-02-21,P045,C099,1154,120,100,Return,Friday,1174,Profit,Profit
+10563,2025-03-02,P038,C116,1631,121,100,Return,Sunday,1652,Profit,Profit
+10564,2025-03-27,P046,C255,1389,157,100,Return,Thursday,1446,Profit,Profit
+10565,2025-01-05,P037,C269,942,184,500,Return,Sunday,626,Profit,Profit
+10566,2025-02-21,P048,C167,1862,18,0,Not Return,Friday,1880,Profit,Profit
+10567,2025-03-28,P033,C058,2390,109,200,Return,Friday,2299,Profit,Profit
+10568,2025-01-03,P029,C126,3160,85,200,Return,Friday,3045,Profit,Profit
+10569,2025-01-07,P019,C184,3459,89,0,Not Return,Tuesday,3548,Profit,Profit
+10570,2025-02-04,P019,C112,2606,41,0,Not Return,Tuesday,2647,Profit,Profit
+10571,2025-01-18,P003,C003,551,89,0,Not Return,Saturday,640,Profit,Profit
+10572,2025-03-28,P040,C123,3564,103,0,Not Return,Friday,3667,Profit,Profit
+10573,2025-03-29,P032,C027,4915,107,0,Not Return,Saturday,5022,Profit,Profit
+10574,2025-01-03,P034,C188,4115,153,200,Return,Friday,4068,Profit,Profit
+10575,2025-03-27,P039,C079,2082,26,0,Not Return,Thursday,2108,Profit,Profit
+10576,2025-01-31,P036,C053,652,140,0,Not Return,Friday,792,Profit,Profit
+10577,2025-03-11,P028,C135,1611,52,0,Not Return,Tuesday,1663,Profit,Profit
+10578,2025-01-17,P022,C250,4405,116,200,Return,Friday,4321,Profit,Profit
+10579,2025-02-17,P014,C001,184,161,0,Not Return,Monday,345,Profit,Profit
+10580,2025-03-19,P020,C009,3790,110,100,Return,Wednesday,3800,Profit,Profit
+10581,2025-02-16,P035,C119,2548,81,0,Not Return,Sunday,2629,Profit,Profit
+10582,2025-02-21,P021,C023,4137,115,0,Not Return,Friday,4252,Profit,Profit
+10583,2025-02-24,P039,C007,227,148,0,Not Return,Monday,375,Profit,Profit
+10584,2025-02-05,P017,C277,4123,199,0,Not Return,Wednesday,4322,Profit,Profit
+10585,2025-02-25,P006,C254,4068,93,400,Return,Tuesday,3761,Profit,Profit
+10586,2025-01-28,P029,C232,1713,81,0,Not Return,Tuesday,1794,Profit,Profit
+10587,2025-03-31,P004,C048,4598,67,100,Return,Monday,4565,Profit,Profit
+10588,2025-01-04,P004,C115,933,12,400,Return,Saturday,545,Profit,Profit
+10589,2025-03-16,P034,C225,1910,148,300,Return,Sunday,1758,Profit,Profit
+10590,2025-01-02,P045,C180,2057,154,300,Return,Thursday,1911,Profit,Profit
+10591,2025-02-22,P036,C264,3519,80,400,Return,Saturday,3199,Profit,Profit
+10592,2025-01-01,P044,C004,1931,140,100,Return,Wednesday,1971,Profit,Profit
+10593,2025-03-06,P034,C282,4768,88,500,Return,Thursday,4356,Profit,Profit
+10594,2025-02-06,P003,C183,1337,25,100,Return,Thursday,1262,Profit,Profit
+10595,2025-01-19,P024,C257,2614,95,300,Return,Sunday,2409,Profit,Profit
+10596,2025-03-12,P005,C155,4780,59,0,Not Return,Wednesday,4839,Profit,Profit
+10597,2025-03-04,P032,C102,4136,113,100,Return,Tuesday,4149,Profit,Profit
+10598,2025-03-10,P006,C026,1997,190,100,Return,Monday,2087,Profit,Profit
+10599,2025-03-15,P034,C064,879,24,400,Return,Saturday,503,Profit,Profit
+10600,2025-01-12,P024,C041,2786,155,500,Return,Sunday,2441,Profit,Profit
+10601,2025-03-13,P049,C281,246,142,300,Return,Thursday,88,Profit,Profit
+10602,2025-02-27,P006,C027,3345,104,0,Not Return,Thursday,3449,Profit,Profit
+10603,2025-02-12,P007,C091,3513,89,300,Return,Wednesday,3302,Profit,Profit
+10604,2025-01-22,P033,C145,4924,88,400,Return,Wednesday,4612,Profit,Profit
+10605,2025-02-05,P043,C053,3756,59,0,Not Return,Wednesday,3815,Profit,Profit
+10606,2025-01-21,P008,C195,2324,149,300,Return,Tuesday,2173,Profit,Profit
+10607,2025-02-04,P047,C036,1328,105,300,Return,Tuesday,1133,Profit,Profit
+10608,2025-01-29,P019,C142,2339,65,300,Return,Wednesday,2104,Profit,Profit
+10609,2025-01-17,P012,C263,1672,137,200,Return,Friday,1609,Profit,Profit
+10610,2025-02-09,P021,C147,1620,94,300,Return,Sunday,1414,Profit,Profit
+10611,2025-02-19,P041,C226,3079,124,500,Return,Wednesday,2703,Profit,Profit
+10612,2025-03-03,P019,C258,4995,79,500,Return,Monday,4574,Profit,Profit
+10613,2025-01-18,P025,C125,841,107,100,Return,Saturday,848,Profit,Profit
+10614,2025-04-01,P018,C054,1477,122,0,Not Return,Tuesday,1599,Profit,Profit
+10615,2025-02-26,P008,C009,1634,77,0,Not Return,Wednesday,1711,Profit,Profit
+10616,2025-03-02,P009,C230,787,67,0,Not Return,Sunday,854,Profit,Profit
+10617,2025-01-02,P038,C057,4533,193,0,Not Return,Thursday,4726,Profit,Profit
+10618,2025-02-14,P026,C015,766,151,400,Return,Friday,517,Profit,Profit
+10619,2025-03-20,P001,C130,4859,158,100,Return,Thursday,4917,Profit,Profit
+10620,2025-01-07,P022,C176,4685,102,400,Return,Tuesday,4387,Profit,Profit
+10621,2025-02-01,P023,C118,2949,108,400,Return,Saturday,2657,Profit,Profit
+10622,2025-01-05,P006,C092,3089,61,0,Not Return,Sunday,3150,Profit,Profit
+10623,2025-03-13,P002,C267,3291,71,0,Not Return,Thursday,3362,Profit,Profit
+10624,2025-01-17,P026,C159,4553,123,500,Return,Friday,4176,Profit,Profit
+10625,2025-01-17,P005,C234,629,75,0,Not Return,Friday,704,Profit,Profit
+10626,2025-03-02,P005,C196,3530,184,0,Not Return,Sunday,3714,Profit,Profit
+10627,2025-02-17,P024,C130,191,197,0,Not Return,Monday,388,Profit,Profit
+10628,2025-03-08,P020,C272,1001,167,100,Return,Saturday,1068,Profit,Profit
+10629,2025-01-15,P007,C011,1632,112,300,Return,Wednesday,1444,Profit,Profit
+10630,2025-02-21,P007,C192,306,71,100,Return,Friday,277,Profit,Profit
+10631,2025-03-26,P016,C144,1226,101,200,Return,Wednesday,1127,Profit,Profit
+10632,2025-02-03,P001,C172,4795,157,100,Return,Monday,4852,Profit,Profit
+10633,2025-02-10,P030,C128,2745,188,400,Return,Monday,2533,Profit,Profit
+10634,2025-03-18,P028,C040,3633,83,500,Return,Tuesday,3216,Profit,Profit
+10635,2025-01-07,P042,C062,3434,157,0,Not Return,Tuesday,3591,Profit,Profit
+10636,2025-03-16,P048,C156,4015,173,100,Return,Sunday,4088,Profit,Profit
+10637,2025-02-08,P033,C082,2673,46,0,Not Return,Saturday,2719,Profit,Profit
+10638,2025-01-04,P010,C179,3045,21,0,Not Return,Saturday,3066,Profit,Profit
+10639,2025-01-29,P020,C257,4342,13,0,Not Return,Wednesday,4355,Profit,Profit
+10640,2025-03-30,P003,C293,3330,100,0,Not Return,Sunday,3430,Profit,Profit
+10641,2025-01-19,P030,C287,3271,140,400,Return,Sunday,3011,Profit,Profit
+10642,2025-01-07,P011,C108,2433,69,0,Not Return,Tuesday,2502,Profit,Profit
+10643,2025-01-30,P007,C029,4311,159,0,Not Return,Thursday,4470,Profit,Profit
+10644,2025-03-22,P031,C269,2748,83,500,Return,Saturday,2331,Profit,Profit
+10645,2025-01-22,P040,C074,2317,113,500,Return,Wednesday,1930,Profit,Profit
+10646,2025-02-07,P047,C244,2529,22,0,Not Return,Friday,2551,Profit,Profit
+10647,2025-02-26,P037,C171,312,54,200,Return,Wednesday,166,Profit,Profit
+10648,2025-02-27,P007,C281,2690,27,100,Return,Thursday,2617,Profit,Profit
+10649,2025-02-18,P004,C020,3457,102,0,Not Return,Tuesday,3559,Profit,Profit
+10650,2025-02-11,P016,C274,308,183,0,Not Return,Tuesday,491,Profit,Profit
+10651,2025-03-28,P026,C265,2573,13,0,Not Return,Friday,2586,Profit,Profit
+10652,2025-01-18,P036,C136,1721,89,200,Return,Saturday,1610,Profit,Profit
+10653,2025-02-12,P012,C150,3776,51,400,Return,Wednesday,3427,Profit,Profit
+10654,2025-03-02,P036,C093,726,23,400,Return,Sunday,349,Profit,Profit
+10655,2025-03-14,P048,C281,1421,194,200,Return,Friday,1415,Profit,Profit
+10656,2025-01-03,P033,C059,2784,162,400,Return,Friday,2546,Profit,Profit
+10657,2025-03-10,P048,C280,1428,172,500,Return,Monday,1100,Profit,Profit
+10658,2025-01-30,P024,C036,1668,66,300,Return,Thursday,1434,Profit,Profit
+10659,2025-01-09,P041,C272,3770,40,200,Return,Thursday,3610,Profit,Profit
+10660,2025-01-15,P009,C053,4744,172,100,Return,Wednesday,4816,Profit,Profit
+10661,2025-03-23,P001,C160,491,109,0,Not Return,Sunday,600,Profit,Profit
+10662,2025-03-28,P032,C079,3164,64,100,Return,Friday,3128,Profit,Profit
+10663,2025-03-21,P021,C035,3860,143,400,Return,Friday,3603,Profit,Profit
+10664,2025-03-08,P017,C253,1604,55,500,Return,Saturday,1159,Profit,Profit
+10665,2025-03-18,P004,C281,1888,36,0,Not Return,Tuesday,1924,Profit,Profit
+10666,2025-03-30,P034,C249,1254,20,100,Return,Sunday,1174,Profit,Profit
+10667,2025-03-03,P049,C195,2294,157,0,Not Return,Monday,2451,Profit,Profit
+10668,2025-03-18,P002,C036,3441,51,0,Not Return,Tuesday,3492,Profit,Profit
+10669,2025-02-11,P006,C184,1804,155,0,Not Return,Tuesday,1959,Profit,Profit
+10670,2025-01-11,P035,C273,2691,193,300,Return,Saturday,2584,Profit,Profit
+10671,2025-02-05,P023,C256,126,141,500,Return,Wednesday,-233,Loss,Loss
+10672,2025-01-05,P026,C087,1939,196,400,Return,Sunday,1735,Profit,Profit
+10673,2025-03-01,P027,C051,710,39,400,Return,Saturday,349,Profit,Profit
+10674,2025-03-09,P028,C035,1680,17,0,Not Return,Sunday,1697,Profit,Profit
+10675,2025-01-22,P023,C290,2306,53,500,Return,Wednesday,1859,Profit,Profit
+10676,2025-03-24,P045,C237,2487,163,0,Not Return,Monday,2650,Profit,Profit
+10677,2025-01-17,P026,C192,4885,137,400,Return,Friday,4622,Profit,Profit
+10678,2025-01-03,P032,C225,1157,156,200,Return,Friday,1113,Profit,Profit
+10679,2025-03-02,P043,C204,860,174,200,Return,Sunday,834,Profit,Profit
+10680,2025-03-23,P026,C199,2050,122,300,Return,Sunday,1872,Profit,Profit
+10681,2025-01-11,P035,C129,3080,143,400,Return,Saturday,2823,Profit,Profit
+10682,2025-01-20,P030,C193,2989,35,400,Return,Monday,2624,Profit,Profit
+10683,2025-02-18,P037,C128,507,197,300,Return,Tuesday,404,Profit,Profit
+10684,2025-02-25,P032,C198,3015,42,400,Return,Tuesday,2657,Profit,Profit
+10685,2025-03-17,P025,C123,1212,149,400,Return,Monday,961,Profit,Profit
+10686,2025-02-18,P016,C121,1817,49,0,Not Return,Tuesday,1866,Profit,Profit
+10687,2025-03-13,P001,C292,3229,155,0,Not Return,Thursday,3384,Profit,Profit
+10688,2025-03-19,P011,C171,175,118,200,Return,Wednesday,93,Profit,Profit
+10689,2025-01-06,P007,C096,3063,180,400,Return,Monday,2843,Profit,Profit
+10690,2025-01-03,P045,C195,1179,111,0,Not Return,Friday,1290,Profit,Profit
+10691,2025-03-03,P014,C285,194,108,0,Not Return,Monday,302,Profit,Profit
+10692,2025-01-13,P011,C148,1468,46,200,Return,Monday,1314,Profit,Profit
+10693,2025-02-26,P010,C262,3711,137,200,Return,Wednesday,3648,Profit,Profit
+10694,2025-03-29,P044,C241,1384,140,0,Not Return,Saturday,1524,Profit,Profit
+10695,2025-02-02,P039,C109,578,13,300,Return,Sunday,291,Profit,Profit
+10696,2025-03-04,P023,C253,839,51,0,Not Return,Tuesday,890,Profit,Profit
+10697,2025-03-11,P022,C227,3775,146,0,Not Return,Tuesday,3921,Profit,Profit
+10698,2025-01-31,P013,C183,3091,41,500,Return,Friday,2632,Profit,Profit
+10699,2025-01-16,P004,C065,2277,114,0,Not Return,Thursday,2391,Profit,Profit
+10700,2025-03-21,P009,C221,4144,59,0,Not Return,Friday,4203,Profit,Profit
+10701,2025-03-18,P014,C240,2490,14,500,Return,Tuesday,2004,Profit,Profit
+10702,2025-03-28,P005,C221,2202,90,500,Return,Friday,1792,Profit,Profit
+10703,2025-01-29,P030,C145,2284,187,0,Not Return,Wednesday,2471,Profit,Profit
+10704,2025-01-13,P045,C072,4286,30,0,Not Return,Monday,4316,Profit,Profit
+10705,2025-03-18,P007,C265,1625,112,0,Not Return,Tuesday,1737,Profit,Profit
+10706,2025-01-23,P008,C092,3731,76,0,Not Return,Thursday,3807,Profit,Profit
+10707,2025-02-14,P019,C098,143,17,100,Return,Friday,60,Profit,Profit
+10708,2025-01-08,P027,C241,4848,54,200,Return,Wednesday,4702,Profit,Profit
+10709,2025-02-11,P041,C281,4223,42,0,Not Return,Tuesday,4265,Profit,Profit
+10710,2025-02-04,P015,C071,3411,20,0,Not Return,Tuesday,3431,Profit,Profit
+10711,2025-03-23,P045,C160,4536,29,0,Not Return,Sunday,4565,Profit,Profit
+10712,2025-03-03,P011,C093,1145,106,0,Not Return,Monday,1251,Profit,Profit
+10713,2025-02-09,P007,C075,4755,74,100,Return,Sunday,4729,Profit,Profit
+10714,2025-01-31,P003,C172,3633,67,0,Not Return,Friday,3700,Profit,Profit
+10715,2025-02-14,P034,C093,1181,78,400,Return,Friday,859,Profit,Profit
+10716,2025-02-26,P018,C030,3852,41,0,Not Return,Wednesday,3893,Profit,Profit
+10717,2025-03-25,P019,C007,411,144,300,Return,Tuesday,255,Profit,Profit
+10718,2025-01-31,P008,C210,4884,135,200,Return,Friday,4819,Profit,Profit
+10719,2025-03-05,P050,C133,3919,86,0,Not Return,Wednesday,4005,Profit,Profit
+10720,2025-02-26,P047,C238,3179,66,300,Return,Wednesday,2945,Profit,Profit
+10721,2025-03-15,P049,C268,2487,93,0,Not Return,Saturday,2580,Profit,Profit
+10722,2025-02-09,P022,C103,2541,52,100,Return,Sunday,2493,Profit,Profit
+10723,2025-01-13,P009,C229,746,110,100,Return,Monday,756,Profit,Profit
+10724,2025-03-16,P016,C204,2782,111,0,Not Return,Sunday,2893,Profit,Profit
+10725,2025-02-21,P004,C218,4885,104,0,Not Return,Friday,4989,Profit,Profit
+10726,2025-01-19,P009,C033,197,152,500,Return,Sunday,-151,Loss,Loss
+10727,2025-04-01,P026,C294,530,171,300,Return,Tuesday,401,Profit,Profit
+10728,2025-02-02,P014,C008,3735,50,300,Return,Sunday,3485,Profit,Profit
+10729,2025-01-02,P050,C227,2472,118,0,Not Return,Thursday,2590,Profit,Profit
+10730,2025-01-24,P011,C134,1573,69,100,Return,Friday,1542,Profit,Profit
+10731,2025-03-29,P006,C269,2833,177,0,Not Return,Saturday,3010,Profit,Profit
+10732,2025-02-25,P042,C277,3560,82,0,Not Return,Tuesday,3642,Profit,Profit
+10733,2025-03-12,P006,C265,772,96,0,Not Return,Wednesday,868,Profit,Profit
+10734,2025-02-11,P042,C093,2376,147,0,Not Return,Tuesday,2523,Profit,Profit
+10735,2025-03-16,P045,C271,3889,65,500,Return,Sunday,3454,Profit,Profit
+10736,2025-02-22,P001,C147,1364,27,300,Return,Saturday,1091,Profit,Profit
+10737,2025-02-22,P041,C146,3678,67,300,Return,Saturday,3445,Profit,Profit
+10738,2025-01-28,P026,C114,290,72,100,Return,Tuesday,262,Profit,Profit
+10739,2025-03-18,P040,C042,2508,154,300,Return,Tuesday,2362,Profit,Profit
+10740,2025-03-31,P049,C074,3409,70,400,Return,Monday,3079,Profit,Profit
+10741,2025-04-01,P036,C299,1530,159,400,Return,Tuesday,1289,Profit,Profit
+10742,2025-02-09,P024,C065,2161,138,0,Not Return,Sunday,2299,Profit,Profit
+10743,2025-01-10,P010,C021,4419,147,0,Not Return,Friday,4566,Profit,Profit
+10744,2025-03-17,P005,C217,4817,176,400,Return,Monday,4593,Profit,Profit
+10745,2025-01-12,P014,C024,3232,171,0,Not Return,Sunday,3403,Profit,Profit
+10746,2025-01-21,P001,C300,4724,107,400,Return,Tuesday,4431,Profit,Profit
+10747,2025-03-13,P002,C220,1323,184,200,Return,Thursday,1307,Profit,Profit
+10748,2025-02-21,P002,C020,1969,113,0,Not Return,Friday,2082,Profit,Profit
+10749,2025-03-14,P033,C166,552,52,200,Return,Friday,404,Profit,Profit
+10750,2025-03-09,P012,C199,3267,96,0,Not Return,Sunday,3363,Profit,Profit
+10751,2025-01-14,P015,C285,3556,145,0,Not Return,Tuesday,3701,Profit,Profit
+10752,2025-02-08,P036,C122,3215,16,100,Return,Saturday,3131,Profit,Profit
+10753,2025-03-19,P046,C204,1964,146,0,Not Return,Wednesday,2110,Profit,Profit
+10754,2025-03-18,P023,C124,3640,25,0,Not Return,Tuesday,3665,Profit,Profit
+10755,2025-01-20,P046,C128,329,158,300,Return,Monday,187,Profit,Profit
+10756,2025-02-03,P005,C171,4605,37,200,Return,Monday,4442,Profit,Profit
+10757,2025-02-06,P025,C064,673,60,0,Not Return,Thursday,733,Profit,Profit
+10758,2025-01-16,P043,C273,4437,97,100,Return,Thursday,4434,Profit,Profit
+10759,2025-01-01,P009,C247,2245,69,0,Not Return,Wednesday,2314,Profit,Profit
+10760,2025-03-28,P043,C119,4363,39,0,Not Return,Friday,4402,Profit,Profit
+10761,2025-01-26,P005,C233,3695,169,400,Return,Sunday,3464,Profit,Profit
+10762,2025-03-06,P049,C005,677,103,100,Return,Thursday,680,Profit,Profit
+10763,2025-03-08,P008,C115,274,17,100,Return,Saturday,191,Profit,Profit
+10764,2025-01-15,P043,C043,1209,49,0,Not Return,Wednesday,1258,Profit,Profit
+10765,2025-01-04,P031,C028,2420,185,400,Return,Saturday,2205,Profit,Profit
+10766,2025-02-08,P025,C093,4370,134,200,Return,Saturday,4304,Profit,Profit
+10767,2025-01-14,P015,C050,818,91,500,Return,Tuesday,409,Profit,Profit
+10768,2025-02-14,P030,C189,2055,38,200,Return,Friday,1893,Profit,Profit
+10769,2025-01-19,P027,C285,4713,112,300,Return,Sunday,4525,Profit,Profit
+10770,2025-01-29,P050,C237,4953,145,0,Not Return,Wednesday,5098,Profit,Profit
+10771,2025-02-14,P024,C204,797,117,300,Return,Friday,614,Profit,Profit
+10772,2025-01-14,P027,C156,708,187,0,Not Return,Tuesday,895,Profit,Profit
+10773,2025-03-12,P020,C244,2079,87,0,Not Return,Wednesday,2166,Profit,Profit
+10774,2025-03-06,P038,C057,4734,127,0,Not Return,Thursday,4861,Profit,Profit
+10775,2025-03-19,P022,C047,265,79,100,Return,Wednesday,244,Profit,Profit
+10776,2025-01-06,P036,C074,726,24,100,Return,Monday,650,Profit,Profit
+10777,2025-03-19,P005,C163,120,135,0,Not Return,Wednesday,255,Profit,Profit
+10778,2025-01-21,P012,C159,4288,98,0,Not Return,Tuesday,4386,Profit,Profit
+10779,2025-03-01,P044,C294,1521,144,0,Not Return,Saturday,1665,Profit,Profit
+10780,2025-03-21,P020,C299,2235,144,0,Not Return,Friday,2379,Profit,Profit
+10781,2025-03-27,P020,C290,3709,12,0,Not Return,Thursday,3721,Profit,Profit
+10782,2025-01-22,P016,C147,1735,116,0,Not Return,Wednesday,1851,Profit,Profit
+10783,2025-02-27,P008,C255,2081,100,200,Return,Thursday,1981,Profit,Profit
+10784,2025-03-17,P020,C209,3111,32,0,Not Return,Monday,3143,Profit,Profit
+10785,2025-03-26,P034,C026,1652,77,200,Return,Wednesday,1529,Profit,Profit
+10786,2025-03-31,P018,C052,1276,84,0,Not Return,Monday,1360,Profit,Profit
+10787,2025-02-27,P025,C239,2863,26,0,Not Return,Thursday,2889,Profit,Profit
+10788,2025-02-24,P007,C008,176,139,0,Not Return,Monday,315,Profit,Profit
+10789,2025-03-30,P030,C027,4208,169,0,Not Return,Sunday,4377,Profit,Profit
+10790,2025-01-15,P047,C199,1323,95,400,Return,Wednesday,1018,Profit,Profit
+10791,2025-02-02,P003,C295,579,171,0,Not Return,Sunday,750,Profit,Profit
+10792,2025-03-20,P018,C073,810,84,0,Not Return,Thursday,894,Profit,Profit
+10793,2025-03-07,P046,C208,129,164,0,Not Return,Friday,293,Profit,Profit
+10794,2025-03-19,P041,C282,289,42,0,Not Return,Wednesday,331,Profit,Profit
+10795,2025-01-21,P038,C138,4590,193,300,Return,Tuesday,4483,Profit,Profit
+10796,2025-02-05,P009,C180,2036,63,0,Not Return,Wednesday,2099,Profit,Profit
+10797,2025-03-12,P009,C007,3478,143,300,Return,Wednesday,3321,Profit,Profit
+10798,2025-02-13,P038,C043,3344,70,300,Return,Thursday,3114,Profit,Profit
+10799,2025-03-05,P004,C065,2390,74,400,Return,Wednesday,2064,Profit,Profit
+10800,2025-03-17,P025,C270,4798,55,0,Not Return,Monday,4853,Profit,Profit
+10801,2025-03-05,P037,C179,1379,183,100,Return,Wednesday,1462,Profit,Profit
+10802,2025-03-19,P009,C292,4689,118,0,Not Return,Wednesday,4807,Profit,Profit
+10803,2025-03-12,P042,C222,1108,39,500,Return,Wednesday,647,Profit,Profit
+10804,2025-02-26,P019,C206,1950,105,200,Return,Wednesday,1855,Profit,Profit
+10805,2025-04-01,P008,C284,969,156,400,Return,Tuesday,725,Profit,Profit
+10806,2025-02-24,P043,C138,1639,43,400,Return,Monday,1282,Profit,Profit
+10807,2025-02-04,P043,C175,3785,192,200,Return,Tuesday,3777,Profit,Profit
+10808,2025-02-10,P031,C137,2830,71,0,Not Return,Monday,2901,Profit,Profit
+10809,2025-03-12,P020,C014,2717,74,100,Return,Wednesday,2691,Profit,Profit
+10810,2025-03-16,P034,C070,1195,189,300,Return,Sunday,1084,Profit,Profit
+10811,2025-01-17,P050,C093,1479,10,200,Return,Friday,1289,Profit,Profit
+10812,2025-02-18,P033,C146,834,191,0,Not Return,Tuesday,1025,Profit,Profit
+10813,2025-03-29,P005,C053,3421,194,0,Not Return,Saturday,3615,Profit,Profit
+10814,2025-02-04,P008,C083,3930,193,0,Not Return,Tuesday,4123,Profit,Profit
+10815,2025-02-10,P040,C157,2521,43,0,Not Return,Monday,2564,Profit,Profit
+10816,2025-03-31,P044,C047,3061,22,200,Return,Monday,2883,Profit,Profit
+10817,2025-02-13,P049,C086,3055,26,500,Return,Thursday,2581,Profit,Profit
+10818,2025-02-15,P029,C092,3653,19,300,Return,Saturday,3372,Profit,Profit
+10819,2025-01-24,P015,C169,4554,119,0,Not Return,Friday,4673,Profit,Profit
+10820,2025-02-19,P032,C288,2598,110,0,Not Return,Wednesday,2708,Profit,Profit
+10821,2025-01-31,P001,C125,557,82,400,Return,Friday,239,Profit,Profit
+10822,2025-02-12,P028,C221,3490,148,0,Not Return,Wednesday,3638,Profit,Profit
+10823,2025-01-01,P050,C023,4020,74,100,Return,Wednesday,3994,Profit,Profit
+10824,2025-01-08,P048,C086,3702,193,100,Return,Wednesday,3795,Profit,Profit
+10825,2025-04-01,P026,C073,4515,94,0,Not Return,Tuesday,4609,Profit,Profit
+10826,2025-03-31,P014,C085,3020,187,0,Not Return,Monday,3207,Profit,Profit
+10827,2025-03-22,P019,C022,697,105,300,Return,Saturday,502,Profit,Profit
+10828,2025-02-28,P017,C226,4974,65,500,Return,Friday,4539,Profit,Profit
+10829,2025-03-07,P044,C080,1943,71,300,Return,Friday,1714,Profit,Profit
+10830,2025-03-26,P019,C076,4701,136,300,Return,Wednesday,4537,Profit,Profit
+10831,2025-02-01,P030,C072,320,76,300,Return,Saturday,96,Profit,Profit
+10832,2025-01-27,P015,C151,1844,18,0,Not Return,Monday,1862,Profit,Profit
+10833,2025-02-17,P026,C157,1041,22,0,Not Return,Monday,1063,Profit,Profit
+10834,2025-02-23,P020,C189,199,15,200,Return,Sunday,14,Profit,Profit
+10835,2025-02-03,P032,C248,2696,18,0,Not Return,Monday,2714,Profit,Profit
+10836,2025-02-15,P034,C114,454,168,100,Return,Saturday,522,Profit,Profit
+10837,2025-03-17,P045,C083,4584,173,500,Return,Monday,4257,Profit,Profit
+10838,2025-01-08,P010,C040,4363,55,0,Not Return,Wednesday,4418,Profit,Profit
+10839,2025-03-30,P046,C111,4457,141,200,Return,Sunday,4398,Profit,Profit
+10840,2025-02-16,P028,C079,4911,18,300,Return,Sunday,4629,Profit,Profit
+10841,2025-03-24,P007,C005,3835,88,0,Not Return,Monday,3923,Profit,Profit
+10842,2025-02-24,P037,C140,2901,20,300,Return,Monday,2621,Profit,Profit
+10843,2025-02-20,P006,C299,4140,115,0,Not Return,Thursday,4255,Profit,Profit
+10844,2025-02-28,P041,C292,1217,68,300,Return,Friday,985,Profit,Profit
+10845,2025-01-23,P030,C139,1129,170,100,Return,Thursday,1199,Profit,Profit
+10846,2025-02-28,P029,C176,4711,164,0,Not Return,Friday,4875,Profit,Profit
+10847,2025-03-24,P012,C030,3495,21,0,Not Return,Monday,3516,Profit,Profit
+10848,2025-01-10,P009,C254,3052,87,0,Not Return,Friday,3139,Profit,Profit
+10849,2025-01-16,P049,C130,4125,39,300,Return,Thursday,3864,Profit,Profit
+10850,2025-03-23,P033,C266,584,149,0,Not Return,Sunday,733,Profit,Profit
+10851,2025-03-12,P050,C113,4053,125,0,Not Return,Wednesday,4178,Profit,Profit
+10852,2025-01-16,P037,C198,2357,47,300,Return,Thursday,2104,Profit,Profit
+10853,2025-03-12,P030,C098,3344,190,500,Return,Wednesday,3034,Profit,Profit
+10854,2025-02-25,P009,C050,1436,111,0,Not Return,Tuesday,1547,Profit,Profit
+10855,2025-02-19,P001,C042,2758,47,100,Return,Wednesday,2705,Profit,Profit
+10856,2025-01-01,P003,C124,2371,193,500,Return,Wednesday,2064,Profit,Profit
+10857,2025-02-19,P044,C215,583,186,200,Return,Wednesday,569,Profit,Profit
+10858,2025-01-09,P028,C132,3243,38,0,Not Return,Thursday,3281,Profit,Profit
+10859,2025-03-22,P047,C198,4844,23,400,Return,Saturday,4467,Profit,Profit
+10860,2025-03-14,P027,C105,3459,85,300,Return,Friday,3244,Profit,Profit
+10861,2025-02-07,P009,C191,358,177,500,Return,Friday,35,Profit,Profit
+10862,2025-03-31,P009,C072,4999,34,0,Not Return,Monday,5033,Profit,Profit
+10863,2025-03-13,P001,C279,4915,74,300,Return,Thursday,4689,Profit,Profit
+10864,2025-01-14,P008,C111,1611,39,0,Not Return,Tuesday,1650,Profit,Profit
+10865,2025-01-21,P012,C139,1649,144,0,Not Return,Tuesday,1793,Profit,Profit
+10866,2025-03-23,P030,C047,4709,78,0,Not Return,Sunday,4787,Profit,Profit
+10867,2025-02-04,P027,C228,2744,72,500,Return,Tuesday,2316,Profit,Profit
+10868,2025-02-06,P016,C036,4446,137,400,Return,Thursday,4183,Profit,Profit
+10869,2025-02-28,P001,C122,2566,19,400,Return,Friday,2185,Profit,Profit
+10870,2025-02-17,P023,C159,2714,192,0,Not Return,Monday,2906,Profit,Profit
+10871,2025-01-07,P028,C100,4598,141,0,Not Return,Tuesday,4739,Profit,Profit
+10872,2025-03-07,P032,C225,3618,107,300,Return,Friday,3425,Profit,Profit
+10873,2025-01-13,P049,C289,1821,21,400,Return,Monday,1442,Profit,Profit
+10874,2025-03-06,P022,C222,750,196,200,Return,Thursday,746,Profit,Profit
+10875,2025-03-24,P015,C252,567,62,500,Return,Monday,129,Profit,Profit
+10876,2025-02-02,P011,C153,3977,99,400,Return,Sunday,3676,Profit,Profit
+10877,2025-02-15,P016,C218,1892,123,0,Not Return,Saturday,2015,Profit,Profit
+10878,2025-02-18,P043,C259,4926,152,300,Return,Tuesday,4778,Profit,Profit
+10879,2025-02-04,P035,C152,703,181,0,Not Return,Tuesday,884,Profit,Profit
+10880,2025-02-09,P014,C262,3735,99,500,Return,Sunday,3334,Profit,Profit
+10881,2025-03-01,P021,C160,3158,92,300,Return,Saturday,2950,Profit,Profit
+10882,2025-03-03,P015,C027,477,182,0,Not Return,Monday,659,Profit,Profit
+10883,2025-01-17,P042,C125,3776,103,0,Not Return,Friday,3879,Profit,Profit
+10884,2025-01-27,P033,C166,1630,147,400,Return,Monday,1377,Profit,Profit
+10885,2025-02-07,P044,C041,3897,152,300,Return,Friday,3749,Profit,Profit
+10886,2025-01-22,P026,C240,3166,169,0,Not Return,Wednesday,3335,Profit,Profit
+10887,2025-01-03,P005,C280,434,155,0,Not Return,Friday,589,Profit,Profit
+10888,2025-03-05,P042,C222,990,11,0,Not Return,Wednesday,1001,Profit,Profit
+10889,2025-03-05,P039,C091,840,49,400,Return,Wednesday,489,Profit,Profit
+10890,2025-03-11,P024,C251,2167,22,0,Not Return,Tuesday,2189,Profit,Profit
+10891,2025-02-21,P011,C220,4040,106,0,Not Return,Friday,4146,Profit,Profit
+10892,2025-03-16,P044,C160,913,140,0,Not Return,Sunday,1053,Profit,Profit
+10893,2025-02-18,P017,C170,1443,192,0,Not Return,Tuesday,1635,Profit,Profit
+10894,2025-03-19,P001,C256,3967,104,200,Return,Wednesday,3871,Profit,Profit
+10895,2025-01-24,P050,C275,4936,49,400,Return,Friday,4585,Profit,Profit
+10896,2025-03-30,P010,C104,2468,11,0,Not Return,Sunday,2479,Profit,Profit
+10897,2025-02-05,P044,C153,903,27,0,Not Return,Wednesday,930,Profit,Profit
+10898,2025-02-22,P050,C142,640,123,0,Not Return,Saturday,763,Profit,Profit
+10899,2025-03-28,P002,C050,2773,87,300,Return,Friday,2560,Profit,Profit
+10900,2025-01-18,P040,C062,2801,150,0,Not Return,Saturday,2951,Profit,Profit
+10901,2025-01-20,P036,C142,1475,170,0,Not Return,Monday,1645,Profit,Profit
+10902,2025-02-21,P042,C187,3851,85,100,Return,Friday,3836,Profit,Profit
+10903,2025-01-06,P001,C081,1919,82,0,Not Return,Monday,2001,Profit,Profit
+10904,2025-03-17,P040,C153,1787,190,0,Not Return,Monday,1977,Profit,Profit
+10905,2025-01-03,P041,C265,2080,72,0,Not Return,Friday,2152,Profit,Profit
+10906,2025-03-31,P019,C270,894,182,0,Not Return,Monday,1076,Profit,Profit
+10907,2025-02-04,P013,C071,1154,191,300,Return,Tuesday,1045,Profit,Profit
+10908,2025-02-19,P018,C165,3348,63,500,Return,Wednesday,2911,Profit,Profit
+10909,2025-01-12,P008,C204,111,29,0,Not Return,Sunday,140,Profit,Profit
+10910,2025-02-06,P030,C146,1464,17,0,Not Return,Thursday,1481,Profit,Profit
+10911,2025-02-27,P048,C279,2816,191,0,Not Return,Thursday,3007,Profit,Profit
+10912,2025-03-16,P037,C098,3287,62,0,Not Return,Sunday,3349,Profit,Profit
+10913,2025-02-01,P049,C019,3488,162,0,Not Return,Saturday,3650,Profit,Profit
+10914,2025-03-14,P004,C065,3889,57,400,Return,Friday,3546,Profit,Profit
+10915,2025-01-25,P010,C291,3858,41,0,Not Return,Saturday,3899,Profit,Profit
+10916,2025-01-26,P001,C175,2997,106,0,Not Return,Sunday,3103,Profit,Profit
+10917,2025-02-27,P019,C168,1312,171,300,Return,Thursday,1183,Profit,Profit
+10918,2025-03-10,P008,C036,4612,194,400,Return,Monday,4406,Profit,Profit
+10919,2025-03-24,P031,C133,1099,156,0,Not Return,Monday,1255,Profit,Profit
+10920,2025-03-29,P005,C062,4342,72,0,Not Return,Saturday,4414,Profit,Profit
+10921,2025-01-17,P014,C224,1929,17,500,Return,Friday,1446,Profit,Profit
+10922,2025-01-20,P039,C028,3140,33,0,Not Return,Monday,3173,Profit,Profit
+10923,2025-01-16,P037,C143,4814,13,100,Return,Thursday,4727,Profit,Profit
+10924,2025-03-26,P009,C232,531,76,0,Not Return,Wednesday,607,Profit,Profit
+10925,2025-01-16,P015,C244,1756,43,500,Return,Thursday,1299,Profit,Profit
+10926,2025-03-11,P039,C214,4777,81,0,Not Return,Tuesday,4858,Profit,Profit
+10927,2025-03-16,P044,C031,2274,180,200,Return,Sunday,2254,Profit,Profit
+10928,2025-01-15,P032,C209,4439,154,500,Return,Wednesday,4093,Profit,Profit
+10929,2025-03-12,P045,C277,1483,44,0,Not Return,Wednesday,1527,Profit,Profit
+10930,2025-02-14,P050,C075,121,194,100,Return,Friday,215,Profit,Profit
+10931,2025-03-05,P029,C145,1521,200,400,Return,Wednesday,1321,Profit,Profit
+10932,2025-03-28,P029,C200,3606,169,0,Not Return,Friday,3775,Profit,Profit
+10933,2025-02-06,P042,C168,2407,94,0,Not Return,Thursday,2501,Profit,Profit
+10934,2025-03-16,P034,C031,3396,107,0,Not Return,Sunday,3503,Profit,Profit
+10935,2025-03-31,P038,C165,4058,76,100,Return,Monday,4034,Profit,Profit
+10936,2025-01-02,P025,C068,1476,105,500,Return,Thursday,1081,Profit,Profit
+10937,2025-01-16,P044,C212,888,105,100,Return,Thursday,893,Profit,Profit
+10938,2025-02-20,P025,C247,483,28,400,Return,Thursday,111,Profit,Profit
+10939,2025-03-31,P020,C073,2857,131,500,Return,Monday,2488,Profit,Profit
+10940,2025-02-08,P020,C140,4513,141,0,Not Return,Saturday,4654,Profit,Profit
+10941,2025-03-31,P031,C209,3977,161,0,Not Return,Monday,4138,Profit,Profit
+10942,2025-03-05,P012,C053,783,43,100,Return,Wednesday,726,Profit,Profit
+10943,2025-01-01,P022,C192,681,76,0,Not Return,Wednesday,757,Profit,Profit
+10944,2025-02-06,P047,C127,1467,153,0,Not Return,Thursday,1620,Profit,Profit
+10945,2025-03-26,P039,C066,2759,65,300,Return,Wednesday,2524,Profit,Profit
+10946,2025-01-12,P049,C044,3616,96,0,Not Return,Sunday,3712,Profit,Profit
+10947,2025-01-15,P022,C286,4112,17,0,Not Return,Wednesday,4129,Profit,Profit
+10948,2025-03-12,P014,C199,3345,38,400,Return,Wednesday,2983,Profit,Profit
+10949,2025-01-25,P041,C261,3926,33,0,Not Return,Saturday,3959,Profit,Profit
+10950,2025-02-05,P010,C088,3830,124,0,Not Return,Wednesday,3954,Profit,Profit
+10951,2025-03-05,P044,C129,2113,107,300,Return,Wednesday,1920,Profit,Profit
+10952,2025-03-07,P018,C195,2547,42,400,Return,Friday,2189,Profit,Profit
+10953,2025-02-24,P017,C193,4879,36,300,Return,Monday,4615,Profit,Profit
+10954,2025-01-08,P031,C108,3891,120,100,Return,Wednesday,3911,Profit,Profit
+10955,2025-01-01,P004,C297,3036,83,100,Return,Wednesday,3019,Profit,Profit
+10956,2025-03-12,P046,C043,898,176,500,Return,Wednesday,574,Profit,Profit
+10957,2025-02-02,P029,C113,1110,178,0,Not Return,Sunday,1288,Profit,Profit
+10958,2025-02-23,P009,C260,3739,159,0,Not Return,Sunday,3898,Profit,Profit
+10959,2025-01-16,P001,C270,4144,173,0,Not Return,Thursday,4317,Profit,Profit
+10960,2025-02-24,P023,C252,2644,10,0,Not Return,Monday,2654,Profit,Profit
+10961,2025-02-21,P004,C202,3690,142,200,Return,Friday,3632,Profit,Profit
+10962,2025-03-20,P043,C002,3916,180,300,Return,Thursday,3796,Profit,Profit
+10963,2025-03-25,P005,C009,2332,195,200,Return,Tuesday,2327,Profit,Profit
+10964,2025-01-24,P050,C087,2938,44,400,Return,Friday,2582,Profit,Profit
+10965,2025-02-09,P031,C073,1399,106,100,Return,Sunday,1405,Profit,Profit
+10966,2025-03-27,P006,C184,4949,192,100,Return,Thursday,5041,Profit,Profit
+10967,2025-01-14,P011,C114,985,105,0,Not Return,Tuesday,1090,Profit,Profit
+10968,2025-01-17,P030,C091,1418,38,400,Return,Friday,1056,Profit,Profit
+10969,2025-01-20,P028,C164,2921,120,200,Return,Monday,2841,Profit,Profit
+10970,2025-01-19,P025,C178,2957,82,400,Return,Sunday,2639,Profit,Profit
+10971,2025-02-02,P034,C119,4584,74,0,Not Return,Sunday,4658,Profit,Profit
+10972,2025-03-12,P010,C147,2362,67,100,Return,Wednesday,2329,Profit,Profit
+10973,2025-01-05,P030,C050,455,126,0,Not Return,Sunday,581,Profit,Profit
+10974,2025-02-08,P007,C144,2683,179,0,Not Return,Saturday,2862,Profit,Profit
+10975,2025-02-16,P038,C142,1458,104,100,Return,Sunday,1462,Profit,Profit
+10976,2025-03-08,P015,C249,2630,150,300,Return,Saturday,2480,Profit,Profit
+10977,2025-01-02,P002,C259,1292,33,0,Not Return,Thursday,1325,Profit,Profit
+10978,2025-02-05,P017,C157,2847,71,0,Not Return,Wednesday,2918,Profit,Profit
+10979,2025-02-10,P040,C013,4512,131,300,Return,Monday,4343,Profit,Profit
+10980,2025-02-10,P033,C279,1579,116,0,Not Return,Monday,1695,Profit,Profit
+10981,2025-02-13,P050,C117,1026,64,100,Return,Thursday,990,Profit,Profit
+10982,2025-03-07,P026,C210,4586,110,0,Not Return,Friday,4696,Profit,Profit
+10983,2025-03-14,P033,C169,2655,72,100,Return,Friday,2627,Profit,Profit
+10984,2025-01-04,P013,C296,1364,92,0,Not Return,Saturday,1456,Profit,Profit
+10985,2025-01-26,P045,C066,2915,111,500,Return,Sunday,2526,Profit,Profit
+10986,2025-01-30,P016,C106,2808,186,0,Not Return,Thursday,2994,Profit,Profit
+10987,2025-02-18,P037,C153,2723,95,0,Not Return,Tuesday,2818,Profit,Profit
+10988,2025-02-15,P009,C265,2782,106,0,Not Return,Saturday,2888,Profit,Profit
+10989,2025-01-08,P016,C282,4543,185,0,Not Return,Wednesday,4728,Profit,Profit
+10990,2025-02-22,P017,C078,4454,101,400,Return,Saturday,4155,Profit,Profit
+10991,2025-02-24,P027,C206,527,103,300,Return,Monday,330,Profit,Profit
+10992,2025-03-16,P011,C249,518,152,0,Not Return,Sunday,670,Profit,Profit
+10993,2025-03-23,P013,C131,3251,196,100,Return,Sunday,3347,Profit,Profit
+10994,2025-03-01,P024,C003,3375,85,0,Not Return,Saturday,3460,Profit,Profit
+10995,2025-01-01,P037,C011,1211,155,0,Not Return,Wednesday,1366,Profit,Profit
+10996,2025-03-19,P019,C003,224,187,500,Return,Wednesday,-89,Loss,Loss
+10997,2025-01-15,P050,C231,2074,175,200,Return,Wednesday,2049,Profit,Profit
+10998,2025-01-24,P019,C118,3123,182,200,Return,Friday,3105,Profit,Profit
+10999,2025-03-30,P014,C126,135,165,0,Not Return,Sunday,300,Profit,Profit
